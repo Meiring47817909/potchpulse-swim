@@ -5,6 +5,7 @@ import uuid
 import threading
 import math
 import os
+import sys
 from datetime import datetime, timezone
 from azure.eventhub import EventHubProducerClient, EventData
 from azure.cosmos import CosmosClient, PartitionKey, exceptions
@@ -144,6 +145,11 @@ for doc in sensor_items:
         "target_reports": 0,
         "reports_generated": doc.get("social_reports_count", 0)
     }
+
+if "--init-only" in sys.argv:
+    # Database, containers and sensors are ready; exit without streaming any events.
+    print(f"Cosmos DB initialised with {len(CITY_STATE['sensors'])} sensors (--init-only). Exiting.")
+    sys.exit(0)
 
 print(f"Loaded {len(CITY_STATE['sensors'])} sensors. Starting Simulation Threads...")
 

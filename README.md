@@ -49,48 +49,43 @@ The scenario is based on real news of pipe bursts and water outages in Potchefst
 ## Repository layout
 
 ```text
-generator/            simulator (potch_generator.py), sensor master data, historical-data generator
+generator/            simulator (potch_generator.py), historical-data generator and loader
   data/               generated historical incidents and social reports (for backfilling the dashboards)
 function/             Azure Function "AI bridge" (sentiment -> confidence score)
 stream-analytics/     Stream Analytics job query
 powerbi/              Power BI report (.pbix)
-docs/                 full project write-up (REPORT.md) and images
+docs/                 setup guide (SETUP.md), full project write-up (REPORT.md) and images
 ```
 
 ## Running it
 
 Running it needs your own Azure resources. The original ones were on an Azure for Students subscription in Italy North and no longer exist.
 
-1. **Create the resources:**
-   - an Event Hubs namespace with hubs `evh-potchiot-…`, `evh-potchsocial-…` and `evh-potchfleet-…`;
-   - a Cosmos DB for NoSQL account;
-   - an Azure AI Language resource;
-   - a Function App (Python);
-   - a Stream Analytics job.
-2. **Function:** deploy [`function/`](function/) (for example with the VS Code Azure Functions extension). Copy `local.settings.example.json` to `local.settings.json` for local runs, and set the same values as application settings in Azure:
-   - `AI_ENDPOINT`, `AI_KEY`;
-   - `COSMOS_URI`, `COSMOS_KEY`, `COSMOS_DB`.
-3. **Stream Analytics:**
-   - Add the inputs `iot-stream`, `social-stream` and `fleet-stream` (Event Hubs).
-   - Add the outputs `out-aibridge` (Azure Function), `out-cosmos-sensortelemetry`, `out-cosmos-fleet`, `out-cosmos-incidenthistory` and `out-cosmos-unifiedlocations` (Cosmos DB). The partition keys are listed in [docs/REPORT.md](docs/REPORT.md#schema-design).
-   - Paste [`stream-analytics/query.sql`](stream-analytics/query.sql) and start the job.
-4. **Generator:**
+**[docs/SETUP.md](docs/SETUP.md) is the full step-by-step guide.** It covers the resources and tiers, the portal steps, the Stream Analytics inputs and outputs, Power BI, troubleshooting and cleanup. In short:
+
+1. **Create** a resource group with:
+   - a Cosmos DB for NoSQL account (serverless);
+   - an Event Hubs namespace with the three hubs, a Send policy and a Listen policy.
+2. **Initialise Cosmos DB:** in `generator/`, copy `.env.example` to `.env`, fill it in, and run:
 
    ```bash
-   cd generator
    pip install -r requirements.txt
-   cp .env.example .env        # then replace the placeholder values with your own
-   python potch_generator.py
+   python potch_generator.py --init-only   # creates the database, the 6 containers and 15 sensors
+   python load_history.py                  # optional: backfill history for the trend pages
    ```
 
-   On first run it creates the Cosmos DB database and containers.
-5. **Power BI:** open [`powerbi/PotchPulse-Dashboard.pbix`](powerbi/) and point the Cosmos DB connection at your account.
+3. **Create** an Azure AI Language resource (free F0) and a Python 3.11 Function App. Set `AI_ENDPOINT`, `AI_KEY`, `COSMOS_URI`, `COSMOS_KEY` and `COSMOS_DB` as app settings, then deploy [`function/`](function/).
+4. **Create the Stream Analytics job:**
+   - inputs `iot-stream`, `social-stream` and `fleet-stream`;
+   - outputs `out-aibridge` and `out-cosmos-*`, with Document id `id`;
+   - paste [`stream-analytics/query.sql`](stream-analytics/query.sql) and start the job.
+5. **Run** `python potch_generator.py`, then open [`powerbi/PotchPulse-Dashboard.pbix`](powerbi/) and point it at your Cosmos DB account.
 
 Secrets are read from environment variables or a local `.env` file only. Both `.env` and `local.settings.json` are git-ignored. The keys in the `.example` files are random placeholders in the right format, not real credentials.
 
 ## Documentation
 
-[docs/REPORT.md](docs/REPORT.md) is the full write-up. It covers:
+[docs/SETUP.md](docs/SETUP.md) is the deployment guide. [docs/REPORT.md](docs/REPORT.md) is the full write-up. It covers:
 
 - the problem definition and data-generation realism;
 - the UML architecture;

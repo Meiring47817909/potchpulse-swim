@@ -1,4 +1,5 @@
 import json
+import os
 import uuid
 import random
 from datetime import datetime, timedelta
@@ -93,10 +94,12 @@ def generate_historical_data():
     social_media_reports.sort(key=lambda x: x["report_time"])
 
     # Write to files
-    with open("historical_incident_history.json", "w") as f:
+    out_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+    os.makedirs(out_dir, exist_ok=True)
+    with open(os.path.join(out_dir, "historical_incident_history.json"), "w") as f:
         json.dump(incident_history, f, indent=4)
         
-    with open("historical_social_media.json", "w") as f:
+    with open(os.path.join(out_dir, "historical_social_media.json"), "w") as f:
         json.dump(social_media_reports, f, indent=4)
         
     print(f"Generated {len(incident_history)} Incident History records.")
