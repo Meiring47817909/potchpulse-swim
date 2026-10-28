@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AI_ENDPOINT": "https://<language-resource>.cognitiveservices.azure.com",
+    "AI_KEY": "<language-service-key>",
+    "COSMOS_URI": "https://<account>.documents.azure.com:443/",
+    "COSMOS_KEY": "<primary-key>",
+    "COSMOS_DB": "PotchSmartCity"
+  }
+}

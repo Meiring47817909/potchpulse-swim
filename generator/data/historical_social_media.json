@@ -1,0 +1,4202 @@
+[
+    {
+        "id": "60dec133-b9b7-40e5-ba33-8316b6613dda",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T01:47:55Z"
+    },
+    {
+        "id": "4b4d1371-5ed1-4355-b1ea-2295e913575c",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Looks like they are working on the pipes near 23 Bremner St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-01T02:03:55Z"
+    },
+    {
+        "id": "bc5a28ec-e0de-416a-b46e-b166af2ed3c0",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-01T02:28:41Z"
+    },
+    {
+        "id": "377b316c-cae5-449c-8816-a097e5a120b1",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T02:48:41Z"
+    },
+    {
+        "id": "07d7712b-ad0a-4d32-95d1-219b12f8a0fa",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T04:47:54Z"
+    },
+    {
+        "id": "632883ef-12bf-433f-932d-7f0887b8b56f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T05:26:54Z"
+    },
+    {
+        "id": "85ba2625-8b66-404b-9818-9b0893e37ee7",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T18:02:27Z"
+    },
+    {
+        "id": "e63851d9-59a5-49b3-b22b-63f0bc12fd41",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T18:48:27Z"
+    },
+    {
+        "id": "b84662e8-3abe-4937-b491-bb57a3336500",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T18:58:27Z"
+    },
+    {
+        "id": "d8c31d9a-e99d-4fe0-bc19-30b75011fee3",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Looks like they are working on the pipes near 12 Willow St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-01T19:03:27Z"
+    },
+    {
+        "id": "718bd5a5-6a82-44b6-965c-3719b2dbb629",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Looks like they are working on the pipes near 12 Willow St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-01T19:21:27Z"
+    },
+    {
+        "id": "8231fd8a-37bd-4169-9f9c-03e0bffead17",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T19:35:27Z"
+    },
+    {
+        "id": "254a164b-e475-471f-8d1b-d7368a88de5f",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T19:43:27Z"
+    },
+    {
+        "id": "0720b486-19e3-4483-8889-9301e50607a3",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-01T19:54:27Z"
+    },
+    {
+        "id": "555602ce-308e-4381-9bf7-e92315bdd8b9",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T06:14:10Z"
+    },
+    {
+        "id": "823b0512-171b-4a25-beb9-37fc889d5cb6",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T06:23:10Z"
+    },
+    {
+        "id": "06ac8d2c-65bb-4cbe-aecf-7e53e248623d",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T06:26:29Z"
+    },
+    {
+        "id": "fc82ff0e-22ae-4d76-a5d8-97a5909436d4",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T06:29:29Z"
+    },
+    {
+        "id": "9a86eb30-835c-4fde-9891-7d1b025aec5f",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Is there a leak at 20 Beta St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-02T06:32:29Z"
+    },
+    {
+        "id": "2ef3cdb4-b674-4863-b73b-88b1d25dab29",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T06:35:29Z"
+    },
+    {
+        "id": "8d9e2f18-4c31-45cf-8a86-b09d509f915f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T06:39:47Z"
+    },
+    {
+        "id": "a47b2d15-95d3-4cfc-8ce3-ce120e814a92",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T06:47:10Z"
+    },
+    {
+        "id": "863afd0a-a583-43bf-adb3-1bf5f2512771",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T07:06:29Z"
+    },
+    {
+        "id": "96263964-21b2-403a-b9c5-408ff1737034",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T07:08:47Z"
+    },
+    {
+        "id": "a6170ec7-9510-42a8-b645-182e78f52f6d",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T08:11:05Z"
+    },
+    {
+        "id": "c39e320f-1746-4621-82bf-a720010a5483",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Is there a leak at 12 Parys Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-02T09:29:05Z"
+    },
+    {
+        "id": "74461e0e-0a34-4c8c-bb2d-bfdd9704ef82",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Is there a leak at 88 Meyer St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-02T16:46:31Z"
+    },
+    {
+        "id": "daa262c9-28d3-4818-bc09-ad5852e7b22f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Looks like they are working on the pipes near 88 Meyer St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-02T16:57:31Z"
+    },
+    {
+        "id": "706e6ca2-ae0b-4dfc-824a-542e727ddb96",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-02T17:45:31Z"
+    },
+    {
+        "id": "eb6a0a2c-0c89-4608-a020-fd1674759994",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-03T00:40:28Z"
+    },
+    {
+        "id": "efaea1b7-126c-46c9-ba22-a6857ac7b369",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-03T01:06:28Z"
+    },
+    {
+        "id": "0373417e-51a6-4ee0-b594-5ee6c958d941",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-03T06:39:37Z"
+    },
+    {
+        "id": "d56d2b89-a531-40a4-af42-8e7474f4cdc7",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-03T06:43:37Z"
+    },
+    {
+        "id": "91aeaf1e-2c7e-412c-a5c2-33900762abb9",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-03T07:27:37Z"
+    },
+    {
+        "id": "0ef46e95-2ab3-4ada-98b6-6583d6f2f2ad",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-03T07:29:37Z"
+    },
+    {
+        "id": "93b5cd2e-8c85-46e7-8781-0709151d9f8a",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-03T07:36:37Z"
+    },
+    {
+        "id": "f1dd9631-69a1-4472-8bb3-7b3572b295fe",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-03T10:25:16Z"
+    },
+    {
+        "id": "3c364299-60a2-4dbc-bd62-55942959aca2",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T02:16:41Z"
+    },
+    {
+        "id": "2b7dc8dc-7a8c-40b4-9934-ad73da344fe3",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T02:47:41Z"
+    },
+    {
+        "id": "7ebcaf40-baa6-456f-ad45-e1c8e9ed615e",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T04:59:54Z"
+    },
+    {
+        "id": "19db2fdd-035e-4440-92bd-ff6422354bb9",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T05:00:54Z"
+    },
+    {
+        "id": "cdb1f57c-5035-48e1-8dee-201cc3432a29",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T05:02:54Z"
+    },
+    {
+        "id": "a9d4c356-726f-4a86-9499-8c58819ccbc0",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T05:24:54Z"
+    },
+    {
+        "id": "457679f4-9b3b-4818-9fbd-f975905d3c3e",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T05:44:54Z"
+    },
+    {
+        "id": "2f7bdeb5-7ee5-4cf4-a6e0-4c53ee11e53d",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T05:52:31Z"
+    },
+    {
+        "id": "ba50d0d0-0e90-404d-b8f6-756ddef6dab3",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T06:12:31Z"
+    },
+    {
+        "id": "0014ca04-3b72-4612-9572-a7129bba7ca3",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T06:14:54Z"
+    },
+    {
+        "id": "54e9826b-a567-40d2-936f-cb621a7b8044",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T06:17:54Z"
+    },
+    {
+        "id": "bc0f6b82-c10f-4d2a-9d87-11e1685b00be",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T06:21:31Z"
+    },
+    {
+        "id": "0ff813f2-7089-4e35-8ff8-00ba9f869480",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T06:26:54Z"
+    },
+    {
+        "id": "5ae27ed2-1d3b-4bd3-b25a-b1f39f47872c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T10:08:39Z"
+    },
+    {
+        "id": "8c389326-0c7e-4b56-a9fb-c064366ee75f",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T16:51:56Z"
+    },
+    {
+        "id": "09a95dc1-9209-4d21-bb10-2077442842e4",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Is there a leak at 5 Grimbeek Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-04T17:07:56Z"
+    },
+    {
+        "id": "c7ae2f58-25d6-485f-a87f-baad49a9bb1f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T17:27:13Z"
+    },
+    {
+        "id": "8a761680-015e-4a36-acd2-adb83ac0132c",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T17:34:56Z"
+    },
+    {
+        "id": "48c2b7bb-d1d4-43f0-be26-e78fcda7cc60",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T19:14:13Z"
+    },
+    {
+        "id": "5118fbd3-1e29-4147-a699-c17ff1dc8a74",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-04T19:19:13Z"
+    },
+    {
+        "id": "c7dbc804-492d-4c94-959f-10a01ceac4da",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-05T04:49:17Z"
+    },
+    {
+        "id": "dcce4b56-de20-4221-831a-356e77feee22",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-05T05:27:17Z"
+    },
+    {
+        "id": "ffbb43c1-bfab-41ba-92ac-2c9c7bec8981",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-05T06:28:17Z"
+    },
+    {
+        "id": "e86a3eec-44d1-41af-912e-4fc0864fc1d4",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-05T08:13:19Z"
+    },
+    {
+        "id": "31fb48c6-d458-45e4-a7e5-2137f89af30f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T05:50:49Z"
+    },
+    {
+        "id": "090f3e07-7966-4fc3-a6e7-fd6c10536791",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Is there a leak at 12 Parys Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-06T06:01:49Z"
+    },
+    {
+        "id": "559537e9-7905-45c1-b6a0-ddbb86ce8d78",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T06:01:49Z"
+    },
+    {
+        "id": "46f32d21-cccb-4398-a0e4-c6db297a3891",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T06:04:49Z"
+    },
+    {
+        "id": "89013b48-32ba-4978-8d93-afa453353861",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T06:21:49Z"
+    },
+    {
+        "id": "ecdf029c-5c63-4308-9864-160e166abb5d",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T06:47:49Z"
+    },
+    {
+        "id": "161513b3-3754-4558-a796-da572a6cfc81",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T06:49:49Z"
+    },
+    {
+        "id": "03c94f90-a5ac-4ccf-916e-c9297d434d02",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T06:51:49Z"
+    },
+    {
+        "id": "b33a2b90-7b7c-43b8-9b97-bbfe34701b64",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T10:36:52Z"
+    },
+    {
+        "id": "3fc9e58b-2936-4d4b-9d2b-ee7c78820bdd",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-06T10:52:52Z"
+    },
+    {
+        "id": "11cdb121-693b-4a1e-8289-7aa9bfa1a533",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T03:05:41Z"
+    },
+    {
+        "id": "d903717e-a5c8-4670-946e-98e7caa20a0f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T03:58:41Z"
+    },
+    {
+        "id": "54e1e2e0-9cd0-4a0b-b419-4b1cf880312f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T04:07:41Z"
+    },
+    {
+        "id": "8a10131b-0515-4b99-b8f6-82a0ccde4b8b",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Is there a leak at 23 Bremner St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-07T04:18:41Z"
+    },
+    {
+        "id": "90604a45-8ea0-4c8d-b17a-8d8a29b22920",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T04:53:41Z"
+    },
+    {
+        "id": "9f677267-24ad-4931-9a3c-2219f9a77fa8",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T05:06:44Z"
+    },
+    {
+        "id": "2eee80fb-742d-436d-b6c6-3f2225595fb4",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Is there a leak at 12 Parys Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-07T05:28:44Z"
+    },
+    {
+        "id": "1ea5be88-7b67-446d-a08b-a622afadaefe",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Is there a leak at 12 Parys Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-07T05:57:44Z"
+    },
+    {
+        "id": "c3703f0a-5050-4a05-a26f-3d1ac13fd734",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T06:03:44Z"
+    },
+    {
+        "id": "3a6e8ab5-fbeb-483e-bdf9-cd4e37184e5b",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T06:15:44Z"
+    },
+    {
+        "id": "e396a169-e337-4a5b-81c7-25a15e23d9f4",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T08:39:52Z"
+    },
+    {
+        "id": "4d968e80-0cda-410f-a225-ff915efa1b58",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T08:42:52Z"
+    },
+    {
+        "id": "007b28da-3660-425b-bcae-75b3721211f3",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Looks like they are working on the pipes near 14 Gouws St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-07T09:13:54Z"
+    },
+    {
+        "id": "9ed0206e-206f-435b-98b4-bd8e7985256b",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T09:22:54Z"
+    },
+    {
+        "id": "5b5a68e2-22e7-4c8d-86ee-187f32676403",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T18:24:13Z"
+    },
+    {
+        "id": "5a2fa48c-976d-431a-b48c-86497f0714f3",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-07T19:10:13Z"
+    },
+    {
+        "id": "f451dd82-2ab2-4051-9f59-3cdcb126b6df",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-08T00:56:51Z"
+    },
+    {
+        "id": "09dbfd6d-8a9d-4971-b296-5de89bb23e95",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-08T02:03:51Z"
+    },
+    {
+        "id": "f7a77f40-19b8-4b4f-b3a9-fb5a38559cac",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-08T02:13:51Z"
+    },
+    {
+        "id": "06c1d448-8288-4797-96c6-77a2a65345ce",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Is there a leak at 23 Bremner St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-08T11:50:00Z"
+    },
+    {
+        "id": "c6036d98-9d69-4a43-95cd-4d91de372376",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-08T13:08:00Z"
+    },
+    {
+        "id": "eb4b613a-8abc-4d80-8962-787fbd632db9",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-09T13:31:31Z"
+    },
+    {
+        "id": "ffc17c09-bb2b-4ad7-bd60-a2f4e3f73c74",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-09T14:37:31Z"
+    },
+    {
+        "id": "0336f6a6-82be-4e38-bebb-e6e3228fd054",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Looks like they are working on the pipes near 14 Gouws St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-09T17:09:07Z"
+    },
+    {
+        "id": "4e4e2ca4-3390-4b13-81d0-a785872457d3",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Looks like they are working on the pipes near 14 Gouws St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-09T17:17:07Z"
+    },
+    {
+        "id": "15f667bc-1787-4e04-a09b-e6f85ff1bec3",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-09T17:42:07Z"
+    },
+    {
+        "id": "b00aaa75-e5d8-4f4e-bc8d-cbc2fda645d2",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-09T18:35:07Z"
+    },
+    {
+        "id": "e46676d1-dfd3-4eaf-8a57-4a24f1c65e80",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Is there a leak at 14 Gouws St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-09T18:44:07Z"
+    },
+    {
+        "id": "5bdff2ce-79f5-438c-bab5-5315e55863c3",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Is there a leak at 14 Gouws St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-09T22:20:53Z"
+    },
+    {
+        "id": "bb7a2dcd-6ee3-4a37-9177-e3215a60d1ae",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-09T23:29:53Z"
+    },
+    {
+        "id": "fcf203f2-a5d3-4062-825c-52259ece2ab7",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Is there a leak at 12 Willow St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-10T12:03:30Z"
+    },
+    {
+        "id": "129fe9fd-7074-4f76-a02e-dcd6b5b1c235",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-10T12:09:30Z"
+    },
+    {
+        "id": "62f98a4a-a245-4915-8490-56af7609e37e",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-10T12:39:30Z"
+    },
+    {
+        "id": "a43336bc-c92e-4761-850a-6331742fadc5",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Looks like they are working on the pipes near 15 Wandrag Ln.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-10T14:29:51Z"
+    },
+    {
+        "id": "4d055e68-e61d-48ac-8b30-0ae82c706883",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-10T14:57:51Z"
+    },
+    {
+        "id": "fba66224-7b18-4147-9c50-ccc08f214d7b",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-12T07:46:33Z"
+    },
+    {
+        "id": "cae53ad9-b22b-43f7-8f20-4c1382d5f6b5",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-12T08:05:33Z"
+    },
+    {
+        "id": "805a5271-bebb-4629-931f-6014fe037e76",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-12T10:59:53Z"
+    },
+    {
+        "id": "62f8e559-f17b-4a03-9dcb-8475e2ddb48c",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-12T11:12:53Z"
+    },
+    {
+        "id": "e20b6284-92b3-4e89-9567-630a6cc79ff0",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-12T11:25:53Z"
+    },
+    {
+        "id": "38e45a19-ab34-44ea-9660-12fc3cb809c7",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Is there a leak at 55 Nelson Mandela Dr?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-12T12:25:53Z"
+    },
+    {
+        "id": "4b103903-3255-4e48-9cda-2d7881735bbc",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-12T12:25:53Z"
+    },
+    {
+        "id": "2259336e-1f54-4fc0-9526-7a090e148ccd",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T02:27:32Z"
+    },
+    {
+        "id": "22c73847-b741-4600-8202-9989e5c59d05",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Is there a leak at 12 Parys Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-13T03:17:32Z"
+    },
+    {
+        "id": "e3eb23e4-e09f-43ae-8bfc-e84219efa091",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T04:42:47Z"
+    },
+    {
+        "id": "ae23e8b8-401d-419c-be53-3ad3e123506d",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Is there a leak at 14 Gouws St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-13T05:51:47Z"
+    },
+    {
+        "id": "ffe4baaf-e950-4472-8e2a-3b6397bafcf1",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T05:57:28Z"
+    },
+    {
+        "id": "962ee8ae-910e-4878-b7a7-e1c9ba806e93",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T06:03:28Z"
+    },
+    {
+        "id": "3d68a0fa-4911-4026-a530-1efb473cfa28",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T06:14:28Z"
+    },
+    {
+        "id": "ad58eddd-eaf1-4703-8176-864870f968d5",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T06:20:28Z"
+    },
+    {
+        "id": "a75814cd-0b42-4c52-8b12-859b8d52ba1b",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T06:25:28Z"
+    },
+    {
+        "id": "fe202def-72d0-4c0d-aaef-f4cbd0dddfc2",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T06:53:58Z"
+    },
+    {
+        "id": "cb37699c-4bfc-438f-9b48-b7164b53bd2b",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Is there a leak at 40 Mooi River Dr?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-13T07:07:58Z"
+    },
+    {
+        "id": "74276291-dd22-45a7-88ee-d295807d813c",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T07:25:58Z"
+    },
+    {
+        "id": "b852d988-8cc2-4097-a577-1faa4cf2c09d",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T07:43:58Z"
+    },
+    {
+        "id": "b6440409-f45f-48cf-96e5-0bedbdf24288",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T07:54:58Z"
+    },
+    {
+        "id": "4f645ed6-7d2a-41e6-afbb-9e0dd358bde4",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Is there a leak at 100 Steve Biko St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-13T18:44:57Z"
+    },
+    {
+        "id": "365de5b4-6d09-4d4e-a0c0-78f97b2559e6",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T19:14:57Z"
+    },
+    {
+        "id": "ba1d0809-b0cf-451d-9741-1f02230e32b2",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T20:43:46Z"
+    },
+    {
+        "id": "071478eb-bd53-42fe-a188-b1d3252e4e59",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T21:06:07Z"
+    },
+    {
+        "id": "2cace0e3-d64b-421e-b96f-a5aa54c1e00a",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T21:38:46Z"
+    },
+    {
+        "id": "e609cdb1-6bde-441e-9832-345b20b10c75",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T21:54:46Z"
+    },
+    {
+        "id": "fd21fb2b-562d-4ed9-9237-b57aa7b0e2f7",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T22:55:07Z"
+    },
+    {
+        "id": "5cfe92dd-a734-4f34-bc96-9d1201d476cc",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-13T22:57:07Z"
+    },
+    {
+        "id": "5eeab542-9e45-405f-a5e0-e1fa9eacbcd3",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T00:58:41Z"
+    },
+    {
+        "id": "ab98b1da-5481-4af8-8639-ba8bbfc3c564",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T04:30:46Z"
+    },
+    {
+        "id": "ee13ecb0-f4e7-4c11-8e4b-f3fa3ed1b4d0",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T04:46:46Z"
+    },
+    {
+        "id": "96421de3-c15b-4fb4-bd6f-056e89531a18",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T07:36:55Z"
+    },
+    {
+        "id": "c7834b7b-14f3-46e2-91f1-e08715aa9d7a",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T07:37:55Z"
+    },
+    {
+        "id": "a6b46afa-a059-4824-b240-46e53ead8047",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T07:44:55Z"
+    },
+    {
+        "id": "aa415f35-845f-4cd6-901f-7fb0ea3bfe37",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T07:44:55Z"
+    },
+    {
+        "id": "3e3ed726-7785-4419-b05d-6a2fa40709e5",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T07:46:54Z"
+    },
+    {
+        "id": "ce7d54f0-26f9-4269-9aa6-1cda70987275",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Looks like they are working on the pipes near 23 Bremner St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-14T07:53:54Z"
+    },
+    {
+        "id": "fe4e4f4c-4a18-4eef-9db3-cbdff7fe57af",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T08:15:55Z"
+    },
+    {
+        "id": "1bd634eb-d1b3-45da-85de-7dbde9dcfa6b",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T14:56:03Z"
+    },
+    {
+        "id": "f44a9102-c724-42fd-91d0-b20c0ced1ac3",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T15:06:03Z"
+    },
+    {
+        "id": "1ecbdb2c-5715-47f7-8dd8-1857361517b9",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T15:55:03Z"
+    },
+    {
+        "id": "2fc0f967-1cc3-4829-9d93-6f84484b18b4",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-14T16:56:19Z"
+    },
+    {
+        "id": "0d4cf1c5-6896-458b-b9cb-4313cfedd3eb",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-14T17:29:19Z"
+    },
+    {
+        "id": "462289e9-dd1e-4ec1-9bd8-a3c8dedbceb4",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T19:59:38Z"
+    },
+    {
+        "id": "1852d498-7556-4aed-ad4f-0f26085a6072",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T20:10:38Z"
+    },
+    {
+        "id": "46c4b25c-c8ae-437b-ac2c-82818ba06f44",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-14T20:12:38Z"
+    },
+    {
+        "id": "0e385fbe-86fc-4bc6-8eac-ec6a6c723e19",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Is there a leak at 55 Nelson Mandela Dr?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-15T00:44:52Z"
+    },
+    {
+        "id": "2295928a-6e6f-40f4-aa2f-d00a94bf1193",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T02:04:52Z"
+    },
+    {
+        "id": "44a00705-72ce-41ec-b6e0-92e1e7813dca",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T03:10:58Z"
+    },
+    {
+        "id": "e4b153fb-f42f-4a49-92ee-9138ba7a1257",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T03:25:58Z"
+    },
+    {
+        "id": "a8c95284-0962-4d8d-8344-72e65acfafcd",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Is there a leak at 12 Parys Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-15T09:49:06Z"
+    },
+    {
+        "id": "6940002b-106a-4719-b8dc-1badfb3fb853",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T10:16:06Z"
+    },
+    {
+        "id": "2b71acce-e044-40bf-8faf-b16115b2bb48",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T13:24:38Z"
+    },
+    {
+        "id": "42c5aa8b-2b0c-4cb3-94c9-e053090b1589",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Is there a leak at 25 Hoffman St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-15T13:32:38Z"
+    },
+    {
+        "id": "d3511cbe-2356-4f25-a342-9cee8b949154",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T13:50:38Z"
+    },
+    {
+        "id": "c257ad69-1c98-4c2d-8e98-33b465c74dfd",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T21:00:58Z"
+    },
+    {
+        "id": "d6a45989-9456-470d-9b92-fd8727242a6c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-15T21:16:58Z"
+    },
+    {
+        "id": "002f8768-c902-4d8c-8676-bdca0956af6b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Is there a leak at 32 Eleazer Rd?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-15T21:21:58Z"
+    },
+    {
+        "id": "84d36ab4-4319-4251-97b3-4ea9295b3c4e",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T04:46:47Z"
+    },
+    {
+        "id": "78c29790-e63b-444f-8619-1188b2c02547",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T05:15:47Z"
+    },
+    {
+        "id": "9296e51c-6319-49fa-ad80-5446fb36b3a7",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Is there a leak at 12 Willow St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-16T16:04:33Z"
+    },
+    {
+        "id": "e9f1f1cc-e560-4f16-8d87-bdec1bdd11da",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T16:34:33Z"
+    },
+    {
+        "id": "4ab428a0-6e0e-4318-9b8f-d29bd3880116",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T16:52:55Z"
+    },
+    {
+        "id": "671ca889-24ac-4171-90ec-3fd2415ed08c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T17:11:55Z"
+    },
+    {
+        "id": "5a964071-0d5d-4990-a561-415412fdb667",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T17:24:55Z"
+    },
+    {
+        "id": "838d93f5-2f36-4d38-9158-33655e171d3c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T18:02:55Z"
+    },
+    {
+        "id": "3add13dc-17fc-4789-99a6-a8e9192d9fe6",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-16T18:37:55Z"
+    },
+    {
+        "id": "03aced7c-5cee-47fe-ae81-e8d1369fd868",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T00:25:12Z"
+    },
+    {
+        "id": "b30c87c4-e53b-4287-b160-96b9dae0366f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Is there a leak at 100 Steve Biko St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-17T04:29:16Z"
+    },
+    {
+        "id": "8790e534-292c-4147-af6c-53e266b00d13",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T05:07:59Z"
+    },
+    {
+        "id": "df269557-5720-4d47-adce-67a155ba989b",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Looks like they are working on the pipes near 5 Grimbeek Ave.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-17T05:56:59Z"
+    },
+    {
+        "id": "5bbc81af-e90b-4e86-8ef3-e68c3afcdfff",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T11:05:08Z"
+    },
+    {
+        "id": "65f85997-0d2e-4c4a-b8cc-4d9143224f7e",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Is there a leak at 8 Rocher St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-17T11:12:08Z"
+    },
+    {
+        "id": "d4382270-1deb-42b8-b124-76e2452be33f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T11:49:08Z"
+    },
+    {
+        "id": "8a0edf72-78b0-42a3-ba9e-84dbf619f5ef",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T12:07:08Z"
+    },
+    {
+        "id": "a248ffb3-ed36-4cb5-8ba9-039faf809e88",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T12:09:08Z"
+    },
+    {
+        "id": "96451a48-9157-4c8e-bc99-aa2371ae6e0e",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T12:37:32Z"
+    },
+    {
+        "id": "147e33f5-65a8-4f15-bef9-28ec53089a10",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T12:40:32Z"
+    },
+    {
+        "id": "8d27d495-5254-4812-b6dc-f1f21561059c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-17T12:47:32Z"
+    },
+    {
+        "id": "aa0e9b88-cdb0-43df-87c1-d3a1af3755be",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T16:26:59Z"
+    },
+    {
+        "id": "754a2730-89b9-4c8f-b312-491471ed69b4",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Looks like they are working on the pipes near 40 Mooi River Dr.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-17T16:57:59Z"
+    },
+    {
+        "id": "47dd305e-d066-4432-b7f5-6ee893cff965",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T19:39:43Z"
+    },
+    {
+        "id": "87fbad65-d008-468f-ac38-557a642b11e6",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T20:07:43Z"
+    },
+    {
+        "id": "00992125-7098-409c-b6c9-4aad2ac67867",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T20:19:43Z"
+    },
+    {
+        "id": "9fae73da-b890-40cc-94e5-8c07f1aa515c",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T22:50:01Z"
+    },
+    {
+        "id": "d1152db3-d23c-4dc0-b979-a5262eb99012",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Is there a leak at 14 Gouws St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-17T23:19:45Z"
+    },
+    {
+        "id": "6692b29e-9311-46fe-a5b3-5bf7f454fa50",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-17T23:21:01Z"
+    },
+    {
+        "id": "b34178be-42a5-40e1-91da-146ddcd27659",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T13:53:25Z"
+    },
+    {
+        "id": "a5feef53-c506-4b75-9812-2c3b7e0aff44",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T13:58:51Z"
+    },
+    {
+        "id": "fa8eb2d5-f3c6-4c2f-97e1-cf325df76798",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T15:03:51Z"
+    },
+    {
+        "id": "37911259-0cae-43c7-852c-44066d725b3e",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T15:10:25Z"
+    },
+    {
+        "id": "cb06857c-c462-4701-a30d-24a2c1934744",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T16:21:10Z"
+    },
+    {
+        "id": "a601affc-28ea-4d21-b8fd-f105a3a3b90d",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T16:51:10Z"
+    },
+    {
+        "id": "6817e9ad-a63c-41f9-a3c9-fce7aa15790c",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T16:55:10Z"
+    },
+    {
+        "id": "69f06a73-2dfb-47ac-8a6c-b00d1805c4bb",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T16:55:10Z"
+    },
+    {
+        "id": "3f641646-b0aa-4a2e-91cf-9faa90d68c9a",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Is there a leak at 8 Rocher St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-18T16:59:10Z"
+    },
+    {
+        "id": "61055513-1f99-4be5-8c1f-1582d5f08f0e",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T17:06:10Z"
+    },
+    {
+        "id": "89a68f34-cb73-4712-b613-51095b54cd47",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T17:13:10Z"
+    },
+    {
+        "id": "a64dcfe6-f905-4c4d-a33e-5da489528583",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-18T17:45:10Z"
+    },
+    {
+        "id": "1ab99af3-5b37-4b0a-a161-61e4c3d73af8",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Looks like they are working on the pipes near 23 Bremner St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-19T00:48:32Z"
+    },
+    {
+        "id": "e236ef17-b6e4-49b9-ad1c-4b5530df1427",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T00:55:32Z"
+    },
+    {
+        "id": "322dc767-a3c1-4f73-bae1-8cc41c507e86",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T01:29:32Z"
+    },
+    {
+        "id": "a3e85390-15e9-4dd4-bd6c-65ba442acded",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Looks like they are working on the pipes near 8 Rocher St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-19T01:39:25Z"
+    },
+    {
+        "id": "414ccbf6-f1bc-4084-95e0-5b9f0f5fe3cd",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Is there a leak at 8 Rocher St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-19T02:09:25Z"
+    },
+    {
+        "id": "382968f3-fe16-4a88-ae3e-5fa872804690",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T02:10:32Z"
+    },
+    {
+        "id": "50140a43-6f12-474d-9273-6526e0fb91bb",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T02:14:32Z"
+    },
+    {
+        "id": "b56bcd4a-c520-4339-8bc9-bb09868c06e1",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Is there a leak at 8 Rocher St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-19T02:23:25Z"
+    },
+    {
+        "id": "eae3c87a-b04c-4a09-bf6f-cfd8a1020971",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T02:24:25Z"
+    },
+    {
+        "id": "cc8a830b-9052-4dfc-bd6e-976432a71204",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T02:46:25Z"
+    },
+    {
+        "id": "3a0d9436-3588-40a1-8ebe-481c0a9b4456",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T03:09:49Z"
+    },
+    {
+        "id": "c8c9a3c5-2421-42ed-b10c-8fb01692d343",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T03:24:49Z"
+    },
+    {
+        "id": "3f176311-5288-419d-8274-8d77c6506b1a",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T04:12:49Z"
+    },
+    {
+        "id": "76521f93-a112-4d32-ad1c-a743bca9d66a",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T14:28:48Z"
+    },
+    {
+        "id": "a243f66b-68f6-4ad9-bf96-62cbfc119ce5",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T14:29:48Z"
+    },
+    {
+        "id": "df27b652-29ee-43e9-92cf-0ddbbeadd4bb",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T14:56:48Z"
+    },
+    {
+        "id": "2f270a00-fbc6-46df-994a-8d860de31028",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T15:27:15Z"
+    },
+    {
+        "id": "8fcedf69-eac4-489b-9697-3cc867ba1cde",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T15:34:15Z"
+    },
+    {
+        "id": "a9dca671-32a7-432d-b435-292e672d5f5a",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Is there a leak at 20 Beta St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-19T15:41:15Z"
+    },
+    {
+        "id": "4f4ac57a-c951-43e5-bf3b-006e30e058e5",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T16:15:15Z"
+    },
+    {
+        "id": "0ea6aeb1-88e4-4c7b-b438-b71d08cc3d66",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Is there a leak at 20 Beta St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-19T16:27:15Z"
+    },
+    {
+        "id": "d3b403d9-635f-4233-b38e-09ac89a33669",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T17:24:48Z"
+    },
+    {
+        "id": "be47651c-160a-4d6b-817a-42035deb4bb1",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T17:44:52Z"
+    },
+    {
+        "id": "01339c6b-1480-494e-87b5-090ca6160626",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T17:47:48Z"
+    },
+    {
+        "id": "092315a4-be8b-4010-848d-9291b0eb791a",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T18:03:48Z"
+    },
+    {
+        "id": "e7b26d8c-5785-43ec-af7b-dec5f0698c41",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T18:07:48Z"
+    },
+    {
+        "id": "436caca6-9ec5-421f-9b6e-833d3fe7bdf9",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T18:22:48Z"
+    },
+    {
+        "id": "fa50aabd-dd57-47dd-a624-b80adedc1319",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Is there a leak at 100 Steve Biko St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-19T18:40:52Z"
+    },
+    {
+        "id": "064b0065-268f-45a7-93d5-f8a2352d012f",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T18:59:48Z"
+    },
+    {
+        "id": "ac11b78e-e8cf-468b-92d2-139dc00bb13a",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Is there a leak at 12 Willow St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-19T19:04:48Z"
+    },
+    {
+        "id": "fc64d912-1535-49d1-9282-d2a3678dc459",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T19:10:48Z"
+    },
+    {
+        "id": "02a3d7a8-8d96-4669-afd5-8f77360fbbdf",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T19:26:13Z"
+    },
+    {
+        "id": "369aa5d3-1e55-4c60-888f-f625b263b791",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-19T21:05:13Z"
+    },
+    {
+        "id": "629a4342-de2c-4477-8a4b-934a53d4df89",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-20T17:14:11Z"
+    },
+    {
+        "id": "9f38c704-53bd-4705-9306-058220d41063",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Is there a leak at 88 Meyer St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-20T17:17:11Z"
+    },
+    {
+        "id": "ab3a9387-9e52-43a2-80a4-46463e4715ed",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-20T17:50:20Z"
+    },
+    {
+        "id": "bbec194f-2a62-47b2-a229-105bb3ff046c",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-20T17:54:20Z"
+    },
+    {
+        "id": "7ce2b6a8-e68d-4762-9793-5a92789d64e7",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-20T18:32:20Z"
+    },
+    {
+        "id": "90873cf2-5680-4fa6-87d4-cff4222f18c9",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-20T22:25:55Z"
+    },
+    {
+        "id": "0a57db64-1f6d-44fe-90f4-44ddf0503feb",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-20T23:28:55Z"
+    },
+    {
+        "id": "66d524c6-88e9-465e-97fb-54ced7e95018",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Is there a leak at 25 Hoffman St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-21T05:10:56Z"
+    },
+    {
+        "id": "bcdbd4ba-0483-44db-8562-69c87a8f343f",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T05:54:24Z"
+    },
+    {
+        "id": "d096fab2-a77c-4e6d-acef-73985c1fb2b5",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T06:10:24Z"
+    },
+    {
+        "id": "bf6ef54f-a72c-4919-a75f-48f749bc2918",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T06:18:56Z"
+    },
+    {
+        "id": "30fce6f0-d068-43d6-bc85-db72fa77e297",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T06:27:24Z"
+    },
+    {
+        "id": "b0df52d8-33bf-4cf8-befc-7718059881b0",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T06:27:24Z"
+    },
+    {
+        "id": "8b06bf48-d4de-4863-adf5-3df4870b42dc",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T06:32:56Z"
+    },
+    {
+        "id": "dc46a37f-2d62-481a-9f1f-4cb86faf1424",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Is there a leak at 40 Mooi River Dr?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-21T06:41:24Z"
+    },
+    {
+        "id": "a52a411f-a69c-4aa8-9a99-dd47cde0477b",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T06:51:24Z"
+    },
+    {
+        "id": "550e4201-0ae4-4f6c-adc1-d2ac6fa12807",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T07:05:24Z"
+    },
+    {
+        "id": "c3be920c-966b-4155-b5b6-db33345ca74d",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T07:28:24Z"
+    },
+    {
+        "id": "d1de4bae-3ac4-4ea3-accb-cb9cb5a46af8",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T11:47:12Z"
+    },
+    {
+        "id": "4274d58e-56fb-42c9-866b-45b0e569d93f",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T12:03:12Z"
+    },
+    {
+        "id": "32c5d960-4cf7-466d-84ef-c0fa9d8dc801",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T12:15:12Z"
+    },
+    {
+        "id": "5288fda8-5b4b-4fb8-bf4c-7437454f0fcf",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T22:05:58Z"
+    },
+    {
+        "id": "14468ad3-797b-4bed-83f4-c9b1d49a7e95",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T22:41:53Z"
+    },
+    {
+        "id": "e343f491-7fea-4de3-8c4c-20cf7ae4564c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T23:17:53Z"
+    },
+    {
+        "id": "0d289d3a-afdc-4aa6-b0cd-4ae0be30ac2b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T23:31:58Z"
+    },
+    {
+        "id": "0b9f580c-7513-420b-9e56-7c217702c6d5",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-21T23:42:58Z"
+    },
+    {
+        "id": "fe5a3e4b-b0c2-492a-805f-8efc8021c35e",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-22T04:12:36Z"
+    },
+    {
+        "id": "b94ea6cd-4948-49d0-841a-8109c6efaff0",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-22T05:11:27Z"
+    },
+    {
+        "id": "f23a5873-31c2-422d-96ba-1925c4d6bb7a",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-22T05:21:07Z"
+    },
+    {
+        "id": "83bb1cab-19dd-4eab-a59e-805fb8b293a4",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-22T05:21:36Z"
+    },
+    {
+        "id": "27fdf7fd-f98a-4480-8bfb-43f254ba031e",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-22T05:42:27Z"
+    },
+    {
+        "id": "d8938a28-49bf-47e8-97ee-a051d5991b10",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-22T12:32:42Z"
+    },
+    {
+        "id": "924a023b-40a5-4f81-8e52-90625e7ae046",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-22T12:56:42Z"
+    },
+    {
+        "id": "91eeb150-237d-4d44-a511-6100eabb3e9b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-22T14:00:02Z"
+    },
+    {
+        "id": "864b9352-93c6-4501-bdaa-0265e7399aa4",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-22T14:08:02Z"
+    },
+    {
+        "id": "bc49ad8d-72ac-4e7f-ae6a-60787525f08b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-22T14:48:02Z"
+    },
+    {
+        "id": "f55e7b2e-5935-4ae4-9c8c-db5b8a69c7c9",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-23T06:45:47Z"
+    },
+    {
+        "id": "761761cc-abee-4217-a7ef-cded6b5bfe8a",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Is there a leak at 32 Eleazer Rd?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-23T08:00:47Z"
+    },
+    {
+        "id": "fab0dd95-c905-4bdc-8091-443aa6a2a519",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-23T08:10:47Z"
+    },
+    {
+        "id": "0922a938-8d05-4e4d-8a6a-91cf3e6423d2",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-23T10:52:55Z"
+    },
+    {
+        "id": "6a94151b-2697-4c81-9d14-a7e26ca68fdc",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-23T10:58:55Z"
+    },
+    {
+        "id": "7db37c86-f8cb-453a-a005-7c4245609c77",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-23T12:16:55Z"
+    },
+    {
+        "id": "4697aa6c-e6ef-4cb6-8c44-7caa03ba4553",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Looks like they are working on the pipes near 100 Steve Biko St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-24T06:20:22Z"
+    },
+    {
+        "id": "18eafedc-96b7-4011-9cf6-9db8f5a7f187",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-24T23:10:05Z"
+    },
+    {
+        "id": "ab258c82-125f-425e-8eab-ad973aa2e227",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T00:21:59Z"
+    },
+    {
+        "id": "bbfcb04e-a258-42f8-853a-3fadb227ec2f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T00:22:59Z"
+    },
+    {
+        "id": "47405d10-1289-41db-a921-2e8e24f53424",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T02:13:15Z"
+    },
+    {
+        "id": "32228a98-10ea-4adb-987f-89628a1c6312",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T04:47:50Z"
+    },
+    {
+        "id": "7de2f31f-14a8-4bdb-8b5c-41eb35f53114",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T04:55:50Z"
+    },
+    {
+        "id": "b65bf0e4-6880-48f3-a1e0-d879b18657b9",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T05:00:50Z"
+    },
+    {
+        "id": "ee9038ea-8a7a-4c88-9665-c6b0f070a309",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T05:06:50Z"
+    },
+    {
+        "id": "52f407fb-c2af-446b-8d43-b1134d8a58fd",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T05:10:50Z"
+    },
+    {
+        "id": "6505f042-40a3-4e51-84e5-0f26040ab888",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T05:23:50Z"
+    },
+    {
+        "id": "cc078428-4c1f-4ed0-92e7-6a99bf48e13d",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T05:47:50Z"
+    },
+    {
+        "id": "4718e3a0-ef6c-4aeb-8593-18ac322b5efb",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T06:13:50Z"
+    },
+    {
+        "id": "8583f8b5-5f5d-4201-a809-5d001f00866b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T09:55:10Z"
+    },
+    {
+        "id": "986f7e8f-a38e-46cc-9924-1a6ade040113",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T11:27:10Z"
+    },
+    {
+        "id": "bd5eada3-4df0-4e02-9380-db5a1664c1a6",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Is there a leak at 32 Eleazer Rd?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-25T12:00:15Z"
+    },
+    {
+        "id": "aecfaf08-747b-4665-b30b-7f499cec47ef",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T20:00:44Z"
+    },
+    {
+        "id": "6fd6af04-4602-471d-b9fc-50f1d8ad5bb8",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T20:01:44Z"
+    },
+    {
+        "id": "374d5943-b6b0-4a05-af3f-8a6995261fc6",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-25T21:06:47Z"
+    },
+    {
+        "id": "37bc5cdd-8691-4937-be90-2bd1e4aa76ae",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-25T21:49:47Z"
+    },
+    {
+        "id": "c4d5ad64-9ff5-4f0f-a682-94d25726b5ea",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-25T22:43:47Z"
+    },
+    {
+        "id": "32543202-8438-401f-aaca-4ad695e0b257",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-26T01:41:00Z"
+    },
+    {
+        "id": "7bf04469-274e-4d4a-876e-cd31d401ca14",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Looks like they are working on the pipes near 14 Gouws St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-26T12:57:12Z"
+    },
+    {
+        "id": "a9d41f4c-cbf8-4f7d-b9b7-898a13c9462f",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-26T13:05:12Z"
+    },
+    {
+        "id": "bf268c3e-1776-44c0-bb69-1ab8891f683d",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-26T13:21:12Z"
+    },
+    {
+        "id": "ca4c218f-e57c-42c4-bca9-73a47cfe1043",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Is there a leak at 14 Gouws St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-26T13:28:12Z"
+    },
+    {
+        "id": "a16ccf37-7ddb-448f-99d2-e97b2cdf0521",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Looks like they are working on the pipes near 14 Gouws St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-04-26T13:41:12Z"
+    },
+    {
+        "id": "1f027757-2ab1-4ced-a4b9-bd7da4e57adf",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Is there a leak at 23 Bremner St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-26T15:35:24Z"
+    },
+    {
+        "id": "8b321166-82b6-4b56-b193-0679d9f66033",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-26T16:31:24Z"
+    },
+    {
+        "id": "5018ee70-38c2-4344-b607-6f8a39349dca",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-26T16:50:24Z"
+    },
+    {
+        "id": "9ab4ffc3-06d7-4770-8290-ccc3be9adef5",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-26T17:22:34Z"
+    },
+    {
+        "id": "2d210052-a21e-495a-9755-0b8a65190db9",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-26T18:11:34Z"
+    },
+    {
+        "id": "cf41012f-fe6f-42fd-8132-486f57fd4ee3",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-27T07:51:07Z"
+    },
+    {
+        "id": "9e422661-4f5e-4918-9b7b-fd14cdd29618",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-27T08:09:07Z"
+    },
+    {
+        "id": "c17605d0-fccf-45fd-82c2-a96eb70e2bd2",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T14:26:31Z"
+    },
+    {
+        "id": "0840cade-c04b-414d-a65e-da99c320a089",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T14:30:31Z"
+    },
+    {
+        "id": "f5e6701f-fae6-44fc-a34a-fe4d1be0d8bc",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Is there a leak at 20 Beta St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-28T14:34:31Z"
+    },
+    {
+        "id": "57d3bcc0-3958-4313-9180-1f2d2c29b1aa",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T18:32:58Z"
+    },
+    {
+        "id": "dd28ed50-0c5a-4fc3-9378-f4b1764a43f1",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T18:57:58Z"
+    },
+    {
+        "id": "0ce07a61-3e9e-4684-b563-7e14e19bf164",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T20:26:58Z"
+    },
+    {
+        "id": "cb2ad97f-d6e7-4dc1-837e-984938321260",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T22:46:54Z"
+    },
+    {
+        "id": "27e01beb-c69e-478b-b500-23391d19f25f",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T23:07:54Z"
+    },
+    {
+        "id": "1e0d1265-827c-47c2-8a44-a1067cf4e50f",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T23:34:54Z"
+    },
+    {
+        "id": "5b6ca07d-a728-4cad-8daf-76803d7cbd09",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Is there a leak at 40 Mooi River Dr?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-28T23:38:54Z"
+    },
+    {
+        "id": "85ea87f5-8485-4193-8b78-2c26308deeda",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-03",
+        "text": "Water issues at 40 Mooi River Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-28T23:42:54Z"
+    },
+    {
+        "id": "66504be6-56dd-4260-a339-5329323c9262",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T08:27:52Z"
+    },
+    {
+        "id": "885af03b-2363-41f1-ac67-367f035a5d71",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T08:33:52Z"
+    },
+    {
+        "id": "26703bea-de0d-429a-be58-b2279b7fae81",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T09:19:52Z"
+    },
+    {
+        "id": "289b9787-8a47-426e-884e-2dbff7d86787",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T14:39:34Z"
+    },
+    {
+        "id": "0b4cde03-f6a3-40f1-a142-8a3a3b370f3e",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T15:09:34Z"
+    },
+    {
+        "id": "ba14d1e1-8445-4b2c-8afc-09695bc64cbd",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T15:34:34Z"
+    },
+    {
+        "id": "221c514d-971a-43eb-9e63-183828c7d540",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T16:19:22Z"
+    },
+    {
+        "id": "e9cacd3c-859a-4645-9d32-149d8200c8e7",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T19:55:37Z"
+    },
+    {
+        "id": "9d620048-afd3-4c5d-b9f3-4159c7d3586a",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T20:39:37Z"
+    },
+    {
+        "id": "a6a8689d-ea06-4ed4-b5f0-24c7888ea3ea",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T21:38:37Z"
+    },
+    {
+        "id": "5c430a08-f9a5-40ff-9219-255a0e2d8e5e",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Is there a leak at 23 Bremner St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-29T22:52:49Z"
+    },
+    {
+        "id": "f26e3d5c-37dd-4e18-bd63-46d7c4c4b182",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T23:10:49Z"
+    },
+    {
+        "id": "27c05594-58b2-437b-8e94-671ab5b54165",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-29T23:53:49Z"
+    },
+    {
+        "id": "b438468d-f6d0-440a-b89c-3291452248b7",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T12:23:43Z"
+    },
+    {
+        "id": "444b3e27-22cd-41b0-80fa-3195b011aa19",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Is there a leak at 8 Rocher St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-30T12:39:43Z"
+    },
+    {
+        "id": "60fcf3e0-ea0c-47d8-ae95-3ddb03515744",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Is there a leak at 8 Rocher St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-30T13:15:43Z"
+    },
+    {
+        "id": "7b4b9fb2-1c9c-45a0-93a5-d1c0372bd2a6",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T17:48:00Z"
+    },
+    {
+        "id": "4c307f59-aa88-4515-85d2-3ae9a52c3457",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T19:01:00Z"
+    },
+    {
+        "id": "456fed50-9b3e-49b8-9d77-35967272201a",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Is there a leak at 5 Grimbeek Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-04-30T22:19:51Z"
+    },
+    {
+        "id": "9c7c2f9e-4783-4b0b-81b5-10b2b7c3383b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T23:04:08Z"
+    },
+    {
+        "id": "10a47602-709f-4868-a5b4-c1ebc1dc6fa3",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T23:11:51Z"
+    },
+    {
+        "id": "ad7ed1c0-b651-453b-9ce6-c9e12c56c846",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T23:16:08Z"
+    },
+    {
+        "id": "ad9fb0fa-b526-4a5b-86f4-633d32425696",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T23:26:51Z"
+    },
+    {
+        "id": "06d53ea2-2304-4e3c-9e56-fac2a1e6e775",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-04-30T23:57:51Z"
+    },
+    {
+        "id": "29fdecbd-0404-47ac-b85e-d56668c31752",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T00:05:51Z"
+    },
+    {
+        "id": "200a0eac-bd49-4ba2-8c8a-0a3fd5dc2f4b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T00:28:08Z"
+    },
+    {
+        "id": "7a85162c-0304-437d-94ba-479a5d70c446",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T07:24:07Z"
+    },
+    {
+        "id": "abb537fd-0524-4fe1-9b06-9d7fc2354187",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T08:07:07Z"
+    },
+    {
+        "id": "c018e4b1-36d5-451c-a615-78981d857450",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T08:52:07Z"
+    },
+    {
+        "id": "59fbcac3-54c1-48cc-9247-353d69a419bc",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T10:08:15Z"
+    },
+    {
+        "id": "583e9cbc-7a8e-4a07-9639-4d0c9397e79e",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Water issues at 55 Nelson Mandela Dr! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T11:01:15Z"
+    },
+    {
+        "id": "8e896277-1e0b-4b4a-abe0-f6a89773a957",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T23:03:29Z"
+    },
+    {
+        "id": "1491c821-1d66-4fcf-915e-2a7651a60885",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-01T23:28:41Z"
+    },
+    {
+        "id": "f51937bc-64d4-433a-89d6-81f5fd532692",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Looks like they are working on the pipes near 8 Rocher St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-01T23:31:08Z"
+    },
+    {
+        "id": "37c87078-4128-42d1-8950-f08b4805a666",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T23:40:41Z"
+    },
+    {
+        "id": "b7091932-dde4-44aa-be2a-a53661ab6223",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T23:40:41Z"
+    },
+    {
+        "id": "853875ff-7a43-46db-a755-64ba35b0e0e0",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-02",
+        "text": "Water issues at 8 Rocher St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T23:49:08Z"
+    },
+    {
+        "id": "53b61a09-e032-4850-92c6-d1f85e5afcb7",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-01T23:58:41Z"
+    },
+    {
+        "id": "f8652706-2297-4f56-81f8-1c4d73021526",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-02T00:11:41Z"
+    },
+    {
+        "id": "accf94a9-f832-4364-b4b0-4f79d3ee6f24",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T00:22:41Z"
+    },
+    {
+        "id": "0529472d-cb66-4c4d-8f5a-19acca050d83",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T00:30:41Z"
+    },
+    {
+        "id": "d254ac3f-0df5-4949-b482-de6f89db1ddf",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T00:31:41Z"
+    },
+    {
+        "id": "3958ed2b-8301-4e16-8ef2-90feb34430d1",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T00:55:27Z"
+    },
+    {
+        "id": "8167e84f-67d7-4364-b52b-4a2db154b99f",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T01:20:27Z"
+    },
+    {
+        "id": "44466572-95e4-4ed7-b03d-873565eee00a",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T01:24:27Z"
+    },
+    {
+        "id": "8afb58b2-c803-4c3a-b3e7-47d941526402",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T01:25:27Z"
+    },
+    {
+        "id": "ffd48f7c-57e1-4fac-8ff3-5d0135794f43",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T02:30:27Z"
+    },
+    {
+        "id": "74a2fce9-4af1-4d79-b09e-14308fb787f5",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T05:10:20Z"
+    },
+    {
+        "id": "92829298-8cc7-4eb5-9616-cab06d3d32ef",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Looks like they are working on the pipes near 12 Parys Ave.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-02T06:21:13Z"
+    },
+    {
+        "id": "d8a718d3-861f-4e19-b60f-ea2c82c0e22f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Looks like they are working on the pipes near 25 Hoffman St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-02T06:25:20Z"
+    },
+    {
+        "id": "3ea19fb9-2a40-4f73-8325-b122d451741c",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T07:14:14Z"
+    },
+    {
+        "id": "aefd305c-6b26-4747-b399-c5b24783ca93",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T07:23:14Z"
+    },
+    {
+        "id": "b6ed25ef-3168-4cd6-b0a5-f5e3355e212d",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T07:37:13Z"
+    },
+    {
+        "id": "71995b2e-f4bb-494d-b2db-1f8a4be81e85",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Is there a leak at 12 Parys Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-02T07:41:13Z"
+    },
+    {
+        "id": "8472242d-3e0a-484c-a4d9-cf8e58e3a664",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T07:48:13Z"
+    },
+    {
+        "id": "087c74cb-d0ed-4601-9a68-f55b3140e5cd",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T08:08:13Z"
+    },
+    {
+        "id": "80600d4e-0737-4029-85a8-af4b10b7abf4",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T11:45:28Z"
+    },
+    {
+        "id": "13704d9e-955a-4e56-b993-3fedd0fdbc7c",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Is there a leak at 23 Bremner St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-02T11:58:00Z"
+    },
+    {
+        "id": "c0e488ea-d32f-426c-8876-2f90a4cb91b5",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Is there a leak at 100 Steve Biko St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-02T12:10:28Z"
+    },
+    {
+        "id": "99ace584-fde6-4b64-a2f8-ccf16ad194d2",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T12:25:00Z"
+    },
+    {
+        "id": "07b65fcc-910c-4e03-ba6f-36717a4e7b16",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T12:27:00Z"
+    },
+    {
+        "id": "8d861615-1eda-47a1-a441-1b02fcc52863",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T12:39:00Z"
+    },
+    {
+        "id": "6d8a972b-c00a-4da8-8508-ddb212a5e888",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T12:53:00Z"
+    },
+    {
+        "id": "995cc4dd-7b88-432e-b181-5e55e3705e1f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T13:10:00Z"
+    },
+    {
+        "id": "6f212fa2-062b-463e-be6f-98f6227e3e9e",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T13:15:00Z"
+    },
+    {
+        "id": "8b41d689-5c08-4394-862c-43eba38ef931",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T13:16:00Z"
+    },
+    {
+        "id": "d2fe4bde-e3a5-4675-8806-e8bcebeee903",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T15:40:52Z"
+    },
+    {
+        "id": "a2f23d99-d31b-4b93-9ec6-eb0b452a71e7",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T15:46:52Z"
+    },
+    {
+        "id": "3ede75b6-c10f-41bf-82a4-6c4feec75780",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T16:06:20Z"
+    },
+    {
+        "id": "eaa7ad29-589e-4164-8bb6-9102dfe2f6b9",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T16:10:20Z"
+    },
+    {
+        "id": "50638396-03b8-4f17-a2fa-21364ee58a7e",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T16:16:20Z"
+    },
+    {
+        "id": "2b1fe61e-b9e9-4600-bef3-6aa6f09d1a97",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T16:27:20Z"
+    },
+    {
+        "id": "0794a33a-e788-4476-9428-e4d81bc12685",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Looks like they are working on the pipes near 20 Beta St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-02T16:46:20Z"
+    },
+    {
+        "id": "bafd54c1-a62d-40d1-96de-6b4abe67eb1b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T17:01:20Z"
+    },
+    {
+        "id": "74d3e74e-01ba-4da8-925e-c44736749552",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T17:47:20Z"
+    },
+    {
+        "id": "315cc5e8-0e27-4a28-87c3-266f9a16bb83",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-02T17:48:20Z"
+    },
+    {
+        "id": "a01a50ae-419d-4f1c-bb22-6d49e6a183d9",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T04:20:34Z"
+    },
+    {
+        "id": "b048e3c7-676d-4d66-83cf-d5837ca0fad0",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-03",
+        "text": "Water issues at 20 Beta St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T05:29:34Z"
+    },
+    {
+        "id": "4d48c640-0de0-4ac4-b0e1-15a07e4336fc",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T11:06:24Z"
+    },
+    {
+        "id": "245edb51-f1ef-4817-9bfb-e93216f03413",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T11:09:24Z"
+    },
+    {
+        "id": "7598b393-d49d-4e57-8dc9-356fdd52bafc",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T11:13:24Z"
+    },
+    {
+        "id": "2ce07355-0fdb-4e35-863c-3fd2112db58f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T11:28:24Z"
+    },
+    {
+        "id": "0d7b7ff0-05cb-4649-88dd-c4910208d6f2",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T11:45:24Z"
+    },
+    {
+        "id": "fb9e5c3a-5c0f-4bba-820a-b3f01148b660",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T12:13:24Z"
+    },
+    {
+        "id": "545dbdb5-248c-40df-a001-81b57764d674",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Is there a leak at 100 Steve Biko St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-03T12:23:24Z"
+    },
+    {
+        "id": "ed5e25a7-2b78-48ce-9f2d-1bca4ba185b1",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T12:29:24Z"
+    },
+    {
+        "id": "2cffa810-4ca1-46c0-8308-af3c5811304f",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Looks like they are working on the pipes near 23 Bremner St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-03T12:32:45Z"
+    },
+    {
+        "id": "1e3c1bb8-5863-4205-9848-5569a83af85c",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T12:47:03Z"
+    },
+    {
+        "id": "1bfbe6dd-ac91-4107-94fb-6b1775e8faad",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T12:53:45Z"
+    },
+    {
+        "id": "54d425bd-96a6-45d6-9467-971a5df93745",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T13:36:45Z"
+    },
+    {
+        "id": "a9d5dad7-952a-4e1e-95e2-bb021418c70d",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T13:55:45Z"
+    },
+    {
+        "id": "1139cd29-17f4-40a9-8f37-371796c5c734",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T13:56:45Z"
+    },
+    {
+        "id": "c388e037-3a95-4fc0-990c-919ee03b2807",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T13:57:45Z"
+    },
+    {
+        "id": "70d554a3-ca64-4ecc-8e4b-08b9344fd84e",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T13:57:45Z"
+    },
+    {
+        "id": "68d5dc78-46a8-4182-af7a-a8c2d4b2159b",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-03T14:15:45Z"
+    },
+    {
+        "id": "b812f645-4765-438e-809e-a096f173a632",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-04T03:31:09Z"
+    },
+    {
+        "id": "25d10e30-ab51-45f7-a381-b9e313603416",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-04T03:39:58Z"
+    },
+    {
+        "id": "805b4caa-1f60-4c98-bd4c-1957ccd5f7cd",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-04T04:18:09Z"
+    },
+    {
+        "id": "f2cfc0ee-f4d2-4654-98a4-e18f0522445a",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-04T06:36:25Z"
+    },
+    {
+        "id": "8b99e5f1-1dee-47ff-8f1d-61117a3b5a97",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-04T07:26:25Z"
+    },
+    {
+        "id": "6c90ce2e-0dc0-4686-be54-c797edcab2b9",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-04T08:03:25Z"
+    },
+    {
+        "id": "7885d198-d91c-4da0-a94a-67836193d07a",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Is there a leak at 5 Grimbeek Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-04T12:25:12Z"
+    },
+    {
+        "id": "d2bb06c6-ff28-434b-929b-7c01a549259b",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Is there a leak at 5 Grimbeek Ave?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-04T12:48:12Z"
+    },
+    {
+        "id": "bbcdf5a9-d553-45c7-8f2b-75c8247a89fb",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-04T12:59:12Z"
+    },
+    {
+        "id": "5789a518-d396-4523-b720-fc052fd8e9c2",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-05T11:11:06Z"
+    },
+    {
+        "id": "ede2476d-dcad-4cfc-bd3c-523a9feddbfb",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-05T11:18:06Z"
+    },
+    {
+        "id": "e34c7a34-05a2-48db-b916-aa1f920700f5",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-05T11:46:06Z"
+    },
+    {
+        "id": "8d7d8db0-6449-4ef4-84ed-c69f2789057b",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-05T20:04:21Z"
+    },
+    {
+        "id": "03f416a4-db80-4bc1-9edd-8975ebd3c45e",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T06:42:15Z"
+    },
+    {
+        "id": "4be46e56-60d9-4852-a47f-488796084bca",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T07:00:15Z"
+    },
+    {
+        "id": "9d33ae63-2ac4-42ea-b61b-a3c7c35fb61e",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T07:09:15Z"
+    },
+    {
+        "id": "b629ed51-c382-4264-8d88-19cdd3b44f81",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Is there a leak at 25 Hoffman St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-06T07:14:15Z"
+    },
+    {
+        "id": "84067e2c-252a-495d-898e-2d636481c0a3",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T07:39:15Z"
+    },
+    {
+        "id": "1813354a-ed0a-4c31-b05d-1aefca8b493a",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T07:52:21Z"
+    },
+    {
+        "id": "9a7f4cfa-328a-4a58-9810-dd81b4bf1664",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Is there a leak at 88 Meyer St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-06T08:05:21Z"
+    },
+    {
+        "id": "eab7d7cd-0701-4da4-902f-af2dcc8d07b5",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T08:17:21Z"
+    },
+    {
+        "id": "1febc39d-a46e-4e50-964a-23bf4149a558",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T08:42:21Z"
+    },
+    {
+        "id": "cca02806-bed9-48ba-89fd-3a87153bac03",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T08:44:21Z"
+    },
+    {
+        "id": "e1c98cfe-283a-4201-a38e-32c574a25764",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T09:47:30Z"
+    },
+    {
+        "id": "fa8f11e7-b82e-4b04-a10e-bbc828575f2d",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T10:04:30Z"
+    },
+    {
+        "id": "5f32909b-c592-4e88-8a1b-e29c3ab7dd70",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T10:06:30Z"
+    },
+    {
+        "id": "24083daf-60a5-4fca-bd86-1587f1fc0c68",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Is there a leak at 14 Gouws St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-06T16:11:12Z"
+    },
+    {
+        "id": "10056685-c808-4db3-9b00-c73d906feb24",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-03",
+        "text": "Water issues at 14 Gouws St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T16:19:12Z"
+    },
+    {
+        "id": "46101d9d-e858-44e0-aae1-abc5e94bbc1b",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T18:53:13Z"
+    },
+    {
+        "id": "b15789af-69b2-4a96-8ff7-5af85144bb79",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T22:41:15Z"
+    },
+    {
+        "id": "84cd9858-3f7e-495b-b9be-5ac50dcab820",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Is there a leak at 25 Hoffman St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-06T22:50:15Z"
+    },
+    {
+        "id": "675b8fe2-a7ff-4d27-bd25-41b6c859b10a",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T23:04:15Z"
+    },
+    {
+        "id": "f117e381-5e49-470a-99d3-f8b7bf933e08",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-06T23:44:15Z"
+    },
+    {
+        "id": "2d766c34-f330-4d48-af0e-5f40d9c9e4b0",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Looks like they are working on the pipes near 25 Hoffman St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-07T00:04:15Z"
+    },
+    {
+        "id": "ca998256-d522-4ff6-9ea8-d3ae7c2d9913",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-02",
+        "text": "Water issues at 12 Willow St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-07T03:05:46Z"
+    },
+    {
+        "id": "1348b682-1850-4db7-9c1d-b2c47711b6e8",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-07T18:09:04Z"
+    },
+    {
+        "id": "fd0bd9af-f742-4f01-a13f-978ac606a31b",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-07T18:29:04Z"
+    },
+    {
+        "id": "0c4fcd5d-634b-4251-86da-441063598a7b",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-07T18:42:04Z"
+    },
+    {
+        "id": "7a6dd16d-759c-4773-9759-e7700b3d9457",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Looks like they are working on the pipes near 15 Wandrag Ln.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-07T19:02:04Z"
+    },
+    {
+        "id": "4ebbe266-9b42-4843-9f9a-aed4908394d6",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-07T19:43:04Z"
+    },
+    {
+        "id": "91cd97c5-6f12-4c2f-925f-f37227d0ed75",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-07T19:44:50Z"
+    },
+    {
+        "id": "17bc7000-c5f0-4262-93e9-692627711ad0",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Water issues at 5 Grimbeek Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-07T20:47:50Z"
+    },
+    {
+        "id": "3355805a-4151-4463-93d0-47e02fa25f02",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Is there a leak at 100 Steve Biko St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-08T01:28:49Z"
+    },
+    {
+        "id": "d4de8d05-3859-4e1e-9afd-5719526f7c4f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T01:40:49Z"
+    },
+    {
+        "id": "e835a4b5-df91-4e8a-887f-3dfc7d063655",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T02:06:49Z"
+    },
+    {
+        "id": "122719d8-c431-4265-8e9f-2937bec8eab2",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T02:10:49Z"
+    },
+    {
+        "id": "1b227668-0ee4-4e81-bb8f-a8d0b3fd9b3f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T03:02:49Z"
+    },
+    {
+        "id": "81131c07-fefb-44c5-a82f-d850b4f92ce7",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-08T04:14:24Z"
+    },
+    {
+        "id": "3dbda561-5ecb-4e47-881d-aa354b03ed51",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T07:20:52Z"
+    },
+    {
+        "id": "181bad07-03df-47bc-aae0-a049396325b8",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T17:30:58Z"
+    },
+    {
+        "id": "580bb1c5-b31f-4f51-a40b-68dbf54dd9eb",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T17:43:58Z"
+    },
+    {
+        "id": "0c2051ac-d2b5-491b-890e-ecfaec5cd821",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T17:47:58Z"
+    },
+    {
+        "id": "0b3c9dd8-28e6-450c-9236-408dd812995e",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T18:03:33Z"
+    },
+    {
+        "id": "7941bee8-7e93-4d75-aa3d-a0eb84ad3be2",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Is there a leak at 88 Meyer St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-08T18:26:58Z"
+    },
+    {
+        "id": "91ece14a-1fb1-4451-b267-cbf5b485256f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-03",
+        "text": "Water issues at 88 Meyer St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-08T18:26:58Z"
+    },
+    {
+        "id": "619ef886-a148-462d-9277-a19cfa89ed00",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-09T07:57:06Z"
+    },
+    {
+        "id": "b36c447a-447b-4fa7-aea4-fe2327f796f6",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T07:57:06Z"
+    },
+    {
+        "id": "a11074f4-8327-47ec-ba58-75818d969665",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T08:06:06Z"
+    },
+    {
+        "id": "a3e6a206-83ac-4704-b82f-f0e097322f86",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-09T08:34:06Z"
+    },
+    {
+        "id": "4484ce29-aba3-4d85-a700-1e6e1bac4e47",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T08:37:06Z"
+    },
+    {
+        "id": "5f6a1c5b-608a-4870-a73c-8f08ed7b7100",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T12:25:16Z"
+    },
+    {
+        "id": "9efc6f54-f265-471d-971e-335f2e13473b",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T14:20:30Z"
+    },
+    {
+        "id": "f8a24cb9-b01c-441b-b0bb-cf98f4a64076",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T17:46:06Z"
+    },
+    {
+        "id": "3bd39243-82b4-4f34-a646-6b7d8022387c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Water issues at 11 Alpha St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T18:02:06Z"
+    },
+    {
+        "id": "426fa2a8-892f-447b-a331-3d874db54ebc",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-02",
+        "text": "Is there a leak at 11 Alpha St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-09T18:40:06Z"
+    },
+    {
+        "id": "65fa00a0-8e1c-4712-b0a2-823f66abfee5",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T20:31:53Z"
+    },
+    {
+        "id": "5f92ac42-8785-43e9-ae29-0b20c701f8f7",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Is there a leak at 32 Eleazer Rd?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-09T20:39:09Z"
+    },
+    {
+        "id": "f76528ed-d9df-40a6-8e31-dc07eb9a7f83",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T20:58:09Z"
+    },
+    {
+        "id": "3b31859b-358e-4fb7-9f6f-be214f4d44e8",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T21:04:09Z"
+    },
+    {
+        "id": "cf833779-44c7-44a0-bd63-b19b7426b7bd",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T21:06:53Z"
+    },
+    {
+        "id": "f4713610-7404-482a-99a7-e7266f06db88",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Looks like they are working on the pipes near 32 Eleazer Rd.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-09T21:19:09Z"
+    },
+    {
+        "id": "1c42d002-5f63-4e14-9bce-21cf236056af",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T21:20:53Z"
+    },
+    {
+        "id": "1a22c207-18cc-40d5-adb3-781380d224fd",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T21:22:09Z"
+    },
+    {
+        "id": "59d6af1d-fd1e-4f90-b596-afa3b90009d1",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T21:40:09Z"
+    },
+    {
+        "id": "7931dbd4-11e8-4b83-b9a4-81b5e111801a",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T21:50:09Z"
+    },
+    {
+        "id": "069bf926-16a9-472a-ad2e-d7d88085642c",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Water issues at 32 Eleazer Rd! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-09T22:07:09Z"
+    },
+    {
+        "id": "0d05a999-f5cf-4d36-9ae3-5d4c9a659b46",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-10T05:44:24Z"
+    },
+    {
+        "id": "c83d7950-db88-429f-abe9-f06194c95625",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-10T06:07:24Z"
+    },
+    {
+        "id": "adba0ab0-a66e-4cb2-bbe0-51b3c8caaf00",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-03",
+        "text": "Water issues at 23 Bremner St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-10T06:24:24Z"
+    },
+    {
+        "id": "eef14424-170d-430c-81eb-be1035a9ab81",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-02",
+        "text": "Is there a leak at 55 Nelson Mandela Dr?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-10T13:32:15Z"
+    },
+    {
+        "id": "9b84b833-8fc7-4d49-bf99-5bbfdcfce047",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-10T17:00:03Z"
+    },
+    {
+        "id": "7dce20d6-dbd0-4ee0-b46b-3d64df2a34a0",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-10T18:03:03Z"
+    },
+    {
+        "id": "4a7da12f-c4c6-4ecc-bee0-c1076366ef42",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-02",
+        "text": "Water issues at 25 Hoffman St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-10T18:19:03Z"
+    },
+    {
+        "id": "93f9e701-f547-4e9c-b215-cf87bf53c471",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-10T23:20:07Z"
+    },
+    {
+        "id": "de1f763c-5f5e-408b-b147-cf5f7d9035de",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T00:07:07Z"
+    },
+    {
+        "id": "dd7f36bd-6561-4e3a-8016-e9691481d7cb",
+        "suburb": "Baillie Park",
+        "sensor_id": "SENS-BP-01",
+        "text": "Water issues at 12 Parys Ave! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T00:19:07Z"
+    },
+    {
+        "id": "cb213ca0-f4ee-4718-b80a-605fbc34c90a",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T06:33:54Z"
+    },
+    {
+        "id": "ed28b5ec-576a-491b-b957-f87f282be298",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Looks like they are working on the pipes near 15 Wandrag Ln.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-11T06:55:54Z"
+    },
+    {
+        "id": "09abfe20-9eab-4385-ba60-79f1cc28a229",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Is there a leak at 15 Wandrag Ln?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-11T07:28:54Z"
+    },
+    {
+        "id": "6948d504-0d7a-47ab-b9d3-d407f491d025",
+        "suburb": "Grimbeek Park",
+        "sensor_id": "SENS-GRIM-01",
+        "text": "Looks like they are working on the pipes near 5 Grimbeek Ave.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-11T07:50:22Z"
+    },
+    {
+        "id": "d62a45d3-b832-4c98-9241-93cd57bc94c0",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Looks like they are working on the pipes near 100 Steve Biko St.",
+        "ai_sentiment": "positive",
+        "report_time": "2026-05-11T08:14:49Z"
+    },
+    {
+        "id": "72b78e75-fbad-443c-9246-0fb4add474fc",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Is there a leak at 100 Steve Biko St?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-11T08:48:49Z"
+    },
+    {
+        "id": "c47c9b94-d65f-48b8-9831-2f65b9c7f187",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T14:05:23Z"
+    },
+    {
+        "id": "c4d9f1bd-dbb3-48f3-89b3-f870fbff2d3f",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T15:09:23Z"
+    },
+    {
+        "id": "c0631be6-e368-46c5-8195-37361efaba2b",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T15:10:23Z"
+    },
+    {
+        "id": "77eb517e-ac2f-42eb-ac51-f077089cf729",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T15:25:23Z"
+    },
+    {
+        "id": "b1faa1c1-bbf1-4372-939a-76b2e8147064",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T15:32:23Z"
+    },
+    {
+        "id": "66de3e23-429c-405f-b300-f783e9943357",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T15:40:23Z"
+    },
+    {
+        "id": "d038c468-e98c-4adc-9934-41411c29761e",
+        "suburb": "Potch Central",
+        "sensor_id": "SENS-CENT-01",
+        "text": "Water issues at 15 Wandrag Ln! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T15:51:23Z"
+    },
+    {
+        "id": "a9b1bb07-c5bf-4af4-b5af-973194dabde8",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T16:00:23Z"
+    },
+    {
+        "id": "49102827-52b4-40af-a24e-3929a630b782",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T16:18:23Z"
+    },
+    {
+        "id": "6818f1ff-ed85-4225-8598-04690939341d",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T16:48:23Z"
+    },
+    {
+        "id": "e21af8c8-d7b8-4e4d-bc91-e1724ad80903",
+        "suburb": "The Bult",
+        "sensor_id": "SENS-BULT-01",
+        "text": "Water issues at 100 Steve Biko St! Please fix it.",
+        "ai_sentiment": "negative",
+        "report_time": "2026-05-11T16:55:23Z"
+    },
+    {
+        "id": "910f26dd-7761-441c-8b0a-813237fd4c11",
+        "suburb": "Dassierand",
+        "sensor_id": "SENS-DASS-01",
+        "text": "Is there a leak at 32 Eleazer Rd?",
+        "ai_sentiment": "neutral",
+        "report_time": "2026-05-11T22:55:40Z"
+    }
+]

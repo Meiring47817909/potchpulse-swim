@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "f8dcda5d-0f58-4f56-877e-34fb4badf312",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 11.25,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-01T03:38:55Z",
+        "date_only": "2026-04-01"
+    },
+    {
+        "id": "11b18051-0701-4a2b-800f-b1fdd9328bf6",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 6.05,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-01T04:11:41Z",
+        "date_only": "2026-04-01"
+    },
+    {
+        "id": "2f53ccfc-d962-430e-9d09-f7d18189d334",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 13.44,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-01T04:24:20Z",
+        "date_only": "2026-04-01"
+    },
+    {
+        "id": "851bb5aa-e5ea-4d22-ba58-6b60c46b17bc",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 11.5,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-01T05:46:54Z",
+        "date_only": "2026-04-01"
+    },
+    {
+        "id": "07b698f0-36b6-4a91-890a-99f3336887a0",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 10.04,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-01T20:00:27Z",
+        "date_only": "2026-04-01"
+    },
+    {
+        "id": "ddba05b6-086e-4520-9be7-94d8846fa56e",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 6.91,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-02T07:02:10Z",
+        "date_only": "2026-04-02"
+    },
+    {
+        "id": "6952196f-c3c8-4921-a91a-b5aa85886583",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 18.97,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-02T07:42:47Z",
+        "date_only": "2026-04-02"
+    },
+    {
+        "id": "fa1f433d-a9e3-4c00-9efe-f8c58c26be55",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 9.23,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-02T07:49:29Z",
+        "date_only": "2026-04-02"
+    },
+    {
+        "id": "10990f21-3b06-4a99-ab0c-26f0ff60cc1d",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 7.0,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-02T09:43:05Z",
+        "date_only": "2026-04-02"
+    },
+    {
+        "id": "24225c43-3a0b-4301-8717-f4d153e0507b",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 12.46,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-02T10:02:12Z",
+        "date_only": "2026-04-02"
+    },
+    {
+        "id": "e4017f7f-20ea-4b91-afae-474c4e1fa754",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 11.83,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-02T18:17:31Z",
+        "date_only": "2026-04-02"
+    },
+    {
+        "id": "34c5be1f-aca6-4e5f-82f4-5d750cd9431e",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 13.51,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-03T01:13:28Z",
+        "date_only": "2026-04-03"
+    },
+    {
+        "id": "f1fdb345-bb78-42ae-a0ad-ad83a189fca7",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 14.5,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-03T04:10:54Z",
+        "date_only": "2026-04-03"
+    },
+    {
+        "id": "4363649c-0cd2-4966-a373-b5f2b6cfc106",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 14.68,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-03T07:55:37Z",
+        "date_only": "2026-04-03"
+    },
+    {
+        "id": "43b5a9c0-df20-4e4e-b8f9-e17c4d31c40b",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 6.2,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-03T10:57:16Z",
+        "date_only": "2026-04-03"
+    },
+    {
+        "id": "fb4bb7db-c708-4af7-9fb6-a50edd042f9a",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 19.44,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-03T15:20:05Z",
+        "date_only": "2026-04-03"
+    },
+    {
+        "id": "355ca248-c154-4880-a27e-f78ada20aaf7",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 12.24,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-03T16:35:44Z",
+        "date_only": "2026-04-03"
+    },
+    {
+        "id": "1c6004f9-8d85-4d43-b148-f57056baa108",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 17.51,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-03T17:28:23Z",
+        "date_only": "2026-04-03"
+    },
+    {
+        "id": "e829ed0e-6add-453f-b8a4-bb0dec65ff52",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 5.71,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-04T03:56:41Z",
+        "date_only": "2026-04-04"
+    },
+    {
+        "id": "84640a48-8e0e-4f70-a751-a102d5a14948",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 13.16,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-04T06:28:31Z",
+        "date_only": "2026-04-04"
+    },
+    {
+        "id": "4162ca0b-113c-4e01-acb5-19970ff48159",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 14.84,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-04T06:49:54Z",
+        "date_only": "2026-04-04"
+    },
+    {
+        "id": "12dccea1-33d2-48e8-8436-d8cf93c74e9f",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 13.46,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-04T11:05:43Z",
+        "date_only": "2026-04-04"
+    },
+    {
+        "id": "992bec7e-f4a8-4373-91ef-29763ba20a56",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 14.6,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-04T11:11:39Z",
+        "date_only": "2026-04-04"
+    },
+    {
+        "id": "13f294f6-153e-4993-a268-30a6bc1a914d",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 9.71,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-04T18:21:56Z",
+        "date_only": "2026-04-04"
+    },
+    {
+        "id": "1793b23d-449e-4758-a500-d9f1bfb92ff1",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 10.88,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-04T19:27:13Z",
+        "date_only": "2026-04-04"
+    },
+    {
+        "id": "addffab4-efc2-4a16-ab63-7581ed0f656b",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 7.91,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-05T06:36:17Z",
+        "date_only": "2026-04-05"
+    },
+    {
+        "id": "aad189d4-c7a8-44c6-9bc3-13c2dfab5217",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 14.41,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-05T08:42:19Z",
+        "date_only": "2026-04-05"
+    },
+    {
+        "id": "bc225737-a494-4f76-8d80-e82ae8bfc6c8",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 5.0,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-05T11:42:05Z",
+        "date_only": "2026-04-05"
+    },
+    {
+        "id": "ec8316b5-dc8f-4bf7-a468-dca1d298b26a",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 15.07,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-06T04:16:09Z",
+        "date_only": "2026-04-06"
+    },
+    {
+        "id": "2f6cad36-bd40-4b92-bd05-caca5255cf48",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 9.17,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-06T07:07:49Z",
+        "date_only": "2026-04-06"
+    },
+    {
+        "id": "3c9b7bd0-a4c1-4e0d-aeed-77085dba37f7",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 13.73,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-06T11:48:52Z",
+        "date_only": "2026-04-06"
+    },
+    {
+        "id": "631eb665-bc7a-4d49-a1f2-549f8e536910",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 16.09,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-07T03:05:52Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "7f8282e9-2eb0-4cbe-8b04-a537a6eec9e1",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 8.43,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-07T05:02:41Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "dcde3155-fde3-4139-b58f-9c29cefb272a",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 10.11,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-07T06:24:44Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "65f1b4d6-9c5c-470b-8db6-ed7a96657804",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 13.68,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-07T06:56:11Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "6f399f67-fdfa-4a88-bc0a-cb38840cee77",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 13.02,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-07T08:48:52Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "92aef58f-9aee-45d2-a0f5-bd28df9f9d9a",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 14.94,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-07T10:31:54Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "ba48e65a-5958-42d0-9621-752d5b06b83e",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 13.7,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-07T13:16:05Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "981168ba-b76f-47e1-b23c-494d487fc5d7",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 7.36,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-07T19:20:13Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "f9d5ff5c-ae43-4acb-bb5a-616bb04f3284",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 13.76,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-07T20:47:57Z",
+        "date_only": "2026-04-07"
+    },
+    {
+        "id": "9c5406d8-92ac-4698-9be8-b3e3325353fd",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 9.49,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-08T02:34:51Z",
+        "date_only": "2026-04-08"
+    },
+    {
+        "id": "39423019-2733-41eb-ab65-3fba84907ab5",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 14.12,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-08T13:31:00Z",
+        "date_only": "2026-04-08"
+    },
+    {
+        "id": "f1efd86e-979c-46f2-b210-c9d829ba2e09",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 14.48,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-08T23:52:18Z",
+        "date_only": "2026-04-08"
+    },
+    {
+        "id": "4ebca530-c0e2-41d7-939d-09d55b3e7f1c",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 14.89,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-09T00:42:19Z",
+        "date_only": "2026-04-09"
+    },
+    {
+        "id": "9c1397c1-ef75-44e4-bcc2-1356069ab815",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 13.0,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-09T09:52:14Z",
+        "date_only": "2026-04-09"
+    },
+    {
+        "id": "753a1355-fa5c-4266-a913-aaf0f01cea79",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 8.89,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-09T10:11:14Z",
+        "date_only": "2026-04-09"
+    },
+    {
+        "id": "27999541-28fd-4e4a-bc85-5068abd83b01",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 11.98,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-09T15:08:31Z",
+        "date_only": "2026-04-09"
+    },
+    {
+        "id": "72ca5055-2a26-4c97-b524-bf064be6fa14",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 7.73,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-09T19:00:07Z",
+        "date_only": "2026-04-09"
+    },
+    {
+        "id": "a0dbef50-e8ac-483a-9755-b132afe57e31",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 5.01,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-09T23:41:53Z",
+        "date_only": "2026-04-09"
+    },
+    {
+        "id": "89ce3564-4d38-4a7f-93d5-27b56e3f2f69",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 13.27,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-10T13:42:30Z",
+        "date_only": "2026-04-10"
+    },
+    {
+        "id": "9187fbf9-b0ca-4cc3-8b17-fe26a8ee882c",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 12.53,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-10T15:05:51Z",
+        "date_only": "2026-04-10"
+    },
+    {
+        "id": "7b9703f2-efd9-415f-94a2-16c82adebc8b",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 17.31,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-11T00:53:36Z",
+        "date_only": "2026-04-11"
+    },
+    {
+        "id": "9ac46734-7412-43f9-974e-608c1d948f69",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 12.36,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-11T05:17:53Z",
+        "date_only": "2026-04-11"
+    },
+    {
+        "id": "9e9adbd3-3015-4cc2-af97-5d2524dcfd4c",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 18.98,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-11T11:34:05Z",
+        "date_only": "2026-04-11"
+    },
+    {
+        "id": "393a8d31-857e-4290-8de1-c59bee2b70da",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 7.59,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-12T08:12:33Z",
+        "date_only": "2026-04-12"
+    },
+    {
+        "id": "82a269dc-ebe4-464c-b68c-935864c6e0f2",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 5.74,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-12T12:34:53Z",
+        "date_only": "2026-04-12"
+    },
+    {
+        "id": "8ae031bd-6bac-4e46-8b13-f68f5e776422",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 11.53,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-13T03:29:32Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "78f6da60-c047-4363-a0e1-8cdc2ce16a54",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 10.23,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-13T06:23:47Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "68034d85-e7df-4f52-9014-c6216fac1218",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 10.7,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-13T07:56:28Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "00ecb73a-e348-4bcd-8e57-85d2b679442d",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 14.92,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-13T08:45:58Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "1c6a9df6-cf37-4256-948e-eb7536b42bba",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 16.95,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-13T19:40:08Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "6980cd21-e118-4698-94da-b63c0cb8c6f8",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 10.51,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-13T20:06:57Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "bced22f9-5090-4e56-b0e3-c4c72f246a71",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 10.51,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-13T22:36:46Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "a023e688-5a41-4e33-b1fc-c0eb76934684",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 10.39,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-13T23:05:07Z",
+        "date_only": "2026-04-13"
+    },
+    {
+        "id": "33226c75-73b4-4ac2-96ab-5cf285edb6cd",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 12.59,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T01:58:41Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "55ba3aca-4230-4cb9-add0-52a9bba1949a",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 19.79,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-14T04:43:39Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "4ff434a5-e243-4764-9bab-a374f325dab3",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 9.87,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T05:02:46Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "d877a005-a398-40cf-83d0-cf4ee504a19f",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 13.03,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T08:16:54Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "f2adff3b-853f-4571-bb96-d8ffcdef305a",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 14.52,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T09:17:55Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "058b130a-8339-4889-bd99-1bd5a41a11e8",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 9.4,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T12:54:33Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "8f942dcc-89e7-4552-8cec-71d06b932c26",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 9.1,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T16:19:03Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "404d0e29-6809-40d3-af06-4c0b6bbf6935",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 13.02,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T17:38:19Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "143417a1-9b93-43ff-9a39-e953806d211b",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 7.79,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-14T20:31:38Z",
+        "date_only": "2026-04-14"
+    },
+    {
+        "id": "3172559f-2557-41ae-afb4-975ca95ca9a5",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 8.05,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-15T02:21:52Z",
+        "date_only": "2026-04-15"
+    },
+    {
+        "id": "91c006e0-37ce-459e-92b6-7bc27a62d353",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 10.56,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-15T03:51:58Z",
+        "date_only": "2026-04-15"
+    },
+    {
+        "id": "86180380-d537-4898-9c28-fbc510cab292",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 7.12,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-15T10:45:06Z",
+        "date_only": "2026-04-15"
+    },
+    {
+        "id": "fd315f79-0f4c-4a9a-8790-4f5073ee6185",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 7.16,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-15T14:44:38Z",
+        "date_only": "2026-04-15"
+    },
+    {
+        "id": "cf884322-cb3d-4f9c-9625-0d93426f7103",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 5.18,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-15T22:39:58Z",
+        "date_only": "2026-04-15"
+    },
+    {
+        "id": "08e2b85d-3877-4ed7-8967-e7f0ea45db7c",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 10.51,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-16T04:33:59Z",
+        "date_only": "2026-04-16"
+    },
+    {
+        "id": "9e4ee3f4-d9da-4c2e-ae79-f18bd1331e48",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 9.68,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-16T05:44:47Z",
+        "date_only": "2026-04-16"
+    },
+    {
+        "id": "ff358fa5-8a53-43a3-8b56-51d08e239d08",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 15.42,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-16T06:47:50Z",
+        "date_only": "2026-04-16"
+    },
+    {
+        "id": "e3a5221f-8aff-4dea-b6e1-af36fae7d48a",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 6.7,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-16T17:56:33Z",
+        "date_only": "2026-04-16"
+    },
+    {
+        "id": "201efd8e-9df7-4c99-ab6d-8b53db24b37e",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 8.14,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-16T18:45:55Z",
+        "date_only": "2026-04-16"
+    },
+    {
+        "id": "aad9b9b1-c698-4823-acf3-bcfb9f2996c7",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 19.63,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-16T18:51:25Z",
+        "date_only": "2026-04-16"
+    },
+    {
+        "id": "16d48615-c4e2-499f-ac64-43cfa890d7ec",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 14.19,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-16T23:49:15Z",
+        "date_only": "2026-04-16"
+    },
+    {
+        "id": "abb443c2-080f-4109-83cd-6a5fa279269e",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 6.62,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T00:49:12Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "b6ba8b17-3bf3-4296-b39f-d26d83d19323",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 9.75,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T04:46:16Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "981c16ed-b756-4506-9ec3-30ceb90f7785",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 11.77,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T06:12:59Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "d12595ec-73c9-4173-ba77-a05dfc43eeee",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 12.76,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T12:39:08Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "e8add8fb-4b73-4c3d-a10c-ae676fe841e7",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 10.87,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T12:52:32Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "9417aed3-35ae-4463-a140-9562a4706a60",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 10.5,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T17:20:17Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "6770c23f-3c2c-4dda-a714-5ed83e6afd57",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 8.8,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T18:11:59Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "d23a981d-1535-44c5-b44b-9502366e1ceb",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 16.1,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-17T20:03:38Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "f66da709-c8c6-4d6e-b35d-eed08a8a7f4f",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 11.59,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T21:23:43Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "a38ad2ad-4a3d-4b0a-9121-ed171f63a278",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 12.42,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-17T23:44:01Z",
+        "date_only": "2026-04-17"
+    },
+    {
+        "id": "6192f2a6-b458-4b4b-addb-8a3ef609169a",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 13.07,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-18T00:46:45Z",
+        "date_only": "2026-04-18"
+    },
+    {
+        "id": "b685966f-98af-4a6e-a70d-9892940af239",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 16.83,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-18T02:13:06Z",
+        "date_only": "2026-04-18"
+    },
+    {
+        "id": "1f73b70a-f4e6-458e-97f2-4ab6e91c144c",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 18.13,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-18T15:18:25Z",
+        "date_only": "2026-04-18"
+    },
+    {
+        "id": "2327be20-c1cb-47cd-9919-ba382d609481",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 14.64,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-18T15:29:51Z",
+        "date_only": "2026-04-18"
+    },
+    {
+        "id": "b11eac1b-a638-4833-880d-bc686e09bbd1",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 5.39,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-18T18:17:10Z",
+        "date_only": "2026-04-18"
+    },
+    {
+        "id": "5933c835-9873-42fc-9f83-6d8f864e171f",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 7.87,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T02:23:32Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "e6475b32-addd-4210-87e8-b8f4d596b47f",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 9.68,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T02:52:25Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "7dd06471-e768-43bb-a07e-005ecaf07ec5",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 10.83,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T04:26:49Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "3fcb49b0-81eb-4c97-ac0f-717c74bc9016",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 6.52,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T15:16:48Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "9d012458-bfd7-42df-9862-9111d5440854",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 7.36,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T17:20:15Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "d6c4bf66-b1b3-4fb7-ab3a-b9847c56fb8b",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 7.93,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T19:06:52Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "0cef62f5-6fc6-4f20-a965-90460f436c7d",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 13.29,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T19:22:48Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "b3518ebd-e80f-402d-a449-fe8443309efc",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 14.21,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-19T21:07:06Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "21f4b0b2-ba72-4e0b-b1c2-58e2b873d9fa",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 8.88,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-19T21:15:13Z",
+        "date_only": "2026-04-19"
+    },
+    {
+        "id": "89bb8098-81cb-4e7f-aa26-224f1d220720",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 18.06,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-20T03:02:50Z",
+        "date_only": "2026-04-20"
+    },
+    {
+        "id": "42f93252-8238-4031-86ea-f4d0988b0909",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 5.7,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-20T18:20:11Z",
+        "date_only": "2026-04-20"
+    },
+    {
+        "id": "babc2b2e-39d0-4ca2-bab4-a76432006561",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 13.05,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-20T18:44:20Z",
+        "date_only": "2026-04-20"
+    },
+    {
+        "id": "9d87ad64-bab6-43a7-b5a4-be151c61345a",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 6.69,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-20T23:53:55Z",
+        "date_only": "2026-04-20"
+    },
+    {
+        "id": "066f9916-f669-4bf3-b603-15967de2b61e",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 9.62,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-21T06:55:56Z",
+        "date_only": "2026-04-21"
+    },
+    {
+        "id": "863ba158-5d15-4b67-b3a6-92c4f22f37a6",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 10.39,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-21T07:48:24Z",
+        "date_only": "2026-04-21"
+    },
+    {
+        "id": "ca8a9323-6064-4871-b808-821b1d6b2d39",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 8.45,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-21T12:23:12Z",
+        "date_only": "2026-04-21"
+    },
+    {
+        "id": "21665e5f-6bf4-4e0a-b946-270c280392cf",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 6.36,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-22T00:00:58Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "d9cdc8e3-e65f-4e10-a02b-19b51aa00847",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 10.12,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-22T00:23:53Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "89ad80f7-a02c-4cb3-8dfe-557f91e14a01",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 17.18,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-22T05:53:54Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "53badbd2-5e87-49b7-9ff2-ec1fa49ac656",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 13.31,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-22T05:58:36Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "dbd5b141-5cc5-412e-99f1-d4bc3e52df74",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 10.69,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-22T07:05:27Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "f44b65f4-e2b1-4b12-b156-513bf3cabfbe",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 8.54,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-22T07:17:07Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "f254b4a7-130d-4a4f-893f-707aca47d86c",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 10.15,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-22T13:53:42Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "1315634a-4fdf-4b71-86bb-885a3d3d2d52",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 7.68,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-22T15:50:02Z",
+        "date_only": "2026-04-22"
+    },
+    {
+        "id": "9d57dc96-cc93-42e4-a66c-e89785c81606",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 11.86,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-23T08:29:47Z",
+        "date_only": "2026-04-23"
+    },
+    {
+        "id": "96fd3dc9-4592-4a85-a5ee-d1e9e5498dea",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 5.23,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-23T12:50:55Z",
+        "date_only": "2026-04-23"
+    },
+    {
+        "id": "146aec8a-c22a-435c-9343-990663038abc",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 17.82,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-23T14:31:59Z",
+        "date_only": "2026-04-23"
+    },
+    {
+        "id": "b2408780-181c-4843-882b-dea7173f0697",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 6.7,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-24T08:03:22Z",
+        "date_only": "2026-04-24"
+    },
+    {
+        "id": "818d3f17-6f0c-4e4b-9547-f09b1cba8eb2",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 9.97,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T00:22:05Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "6825c0f1-6d69-454d-a339-5b284fc25393",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 5.46,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T01:40:59Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "b0d0569a-b2c7-4075-ad11-c4f525313383",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 9.66,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T02:19:15Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "8b935774-4cb6-4cb4-8142-1f55ffc50ba0",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 7.03,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T06:23:50Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "759fc80b-1de3-4831-bf3e-b798d74765bd",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 11.25,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T11:49:10Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "5d4bec50-d688-478b-813f-b83f45d03057",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 11.08,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T13:58:15Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "7dea44aa-2f7f-4ad6-8307-5396e3f0ef1d",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 12.68,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T21:37:44Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "9f1d3016-1657-410a-a80d-9dfbbe996c1e",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 12.49,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-25T23:06:47Z",
+        "date_only": "2026-04-25"
+    },
+    {
+        "id": "63d2e4c4-4f06-4fc1-aaae-02fa21c138aa",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 5.66,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-26T00:19:04Z",
+        "date_only": "2026-04-26"
+    },
+    {
+        "id": "1f45b96f-f7b1-4e38-babd-ba6d05b57a7b",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 5.76,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-26T01:57:00Z",
+        "date_only": "2026-04-26"
+    },
+    {
+        "id": "cd41587e-4f5c-45ca-9e92-eaee1fbc3871",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 19.14,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-26T07:18:14Z",
+        "date_only": "2026-04-26"
+    },
+    {
+        "id": "6c72c5cc-acc9-4c3d-beba-e1e17f8cf685",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 11.65,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-26T14:11:12Z",
+        "date_only": "2026-04-26"
+    },
+    {
+        "id": "3735f80e-27eb-488a-ad13-602caaea4231",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 12.31,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-26T16:06:34Z",
+        "date_only": "2026-04-26"
+    },
+    {
+        "id": "cbb74fcb-2039-49bc-94ad-c3162be6ff5b",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 8.45,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-26T17:24:24Z",
+        "date_only": "2026-04-26"
+    },
+    {
+        "id": "8b532aa5-1287-4543-8c32-017c52c5c576",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 6.55,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-26T19:17:34Z",
+        "date_only": "2026-04-26"
+    },
+    {
+        "id": "3dd0aabc-f598-434f-9391-421a304c34b0",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 11.23,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-27T08:43:07Z",
+        "date_only": "2026-04-27"
+    },
+    {
+        "id": "70699ce2-757a-4c41-b360-3046ce6ff1ac",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 12.76,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-27T18:30:52Z",
+        "date_only": "2026-04-27"
+    },
+    {
+        "id": "dbd90778-640e-4ca2-a962-9a325d82eec8",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 8.77,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-28T14:58:31Z",
+        "date_only": "2026-04-28"
+    },
+    {
+        "id": "9de001bc-35a8-4b91-9562-cc44dd785162",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 14.16,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-28T20:31:58Z",
+        "date_only": "2026-04-28"
+    },
+    {
+        "id": "8108ce5e-0cc1-4825-993b-ec847d95a882",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 8.7,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-29T00:01:54Z",
+        "date_only": "2026-04-29"
+    },
+    {
+        "id": "13ab60a6-44a1-4ff2-92ac-6ad619a0a86f",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 12.61,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-29T09:46:52Z",
+        "date_only": "2026-04-29"
+    },
+    {
+        "id": "b3032221-78bd-49f4-9428-6c7410b9dcbc",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 8.39,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-29T15:57:34Z",
+        "date_only": "2026-04-29"
+    },
+    {
+        "id": "f0e5c7de-aaa8-4f55-937c-f7bbb42bf1d6",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 5.6,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-29T16:43:22Z",
+        "date_only": "2026-04-29"
+    },
+    {
+        "id": "d9d177cc-ece0-4df6-a159-c8f631cfc1ca",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 9.85,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-29T20:11:52Z",
+        "date_only": "2026-04-29"
+    },
+    {
+        "id": "93c4f20c-8466-41a7-9eaa-0b33b3cf9a99",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 5.92,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-29T21:44:37Z",
+        "date_only": "2026-04-29"
+    },
+    {
+        "id": "7de78333-c586-4cc4-a2d4-ce9a43e9adb6",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 12.14,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-30T00:40:49Z",
+        "date_only": "2026-04-30"
+    },
+    {
+        "id": "d10d3592-6772-4304-a65a-d381674e2fc8",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 19.75,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-30T08:03:30Z",
+        "date_only": "2026-04-30"
+    },
+    {
+        "id": "dbb13359-23b1-4324-87c9-822f842b4bf9",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 9.81,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-30T13:52:43Z",
+        "date_only": "2026-04-30"
+    },
+    {
+        "id": "cece80b7-53e7-4d1f-88ad-3680b1f0775b",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 18.43,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-04-30T15:05:14Z",
+        "date_only": "2026-04-30"
+    },
+    {
+        "id": "86911c67-ed6f-4de4-b1f7-633621351766",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 10.73,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-04-30T19:14:00Z",
+        "date_only": "2026-04-30"
+    },
+    {
+        "id": "d32aadda-5031-4795-9944-7041d3257cf4",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 12.9,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-01T00:12:51Z",
+        "date_only": "2026-05-01"
+    },
+    {
+        "id": "7406b5e6-7ef5-468c-8d85-cf3531441484",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 9.89,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-01T00:34:08Z",
+        "date_only": "2026-05-01"
+    },
+    {
+        "id": "f19ffe21-6cc9-4892-8c58-25b6b9015ec6",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 10.8,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-01T09:19:07Z",
+        "date_only": "2026-05-01"
+    },
+    {
+        "id": "a03a73f2-956f-4462-8352-460dea5c3dd3",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 14.47,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-01T11:50:15Z",
+        "date_only": "2026-05-01"
+    },
+    {
+        "id": "94f26ce7-0812-49ea-95fd-5c4dfec7b373",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 6.0,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T00:16:29Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "49c0fb81-dfc9-4ae1-a1bc-499845b21a8b",
+        "sensor_id": "SENS-BP-02",
+        "recorded_pressure": 12.12,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-02T00:46:08Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "adce18b6-9bd4-4812-a93d-01e385f4b745",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 9.8,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T01:24:41Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "181690a1-f742-499e-b000-5e358646d8ea",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 6.85,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T02:53:27Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "0c28e311-bd37-4039-bd29-6af1886834b3",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 14.91,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T06:55:20Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "65e5690c-250e-480f-b67f-658e7572ca1e",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 13.15,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T08:13:13Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "ced3ebf5-19ac-4dd5-92ae-47d337772885",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 8.44,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T08:18:14Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "a08df3fe-894d-4831-96b4-1cdece489a05",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 16.02,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-02T11:15:50Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "19da0c48-83a1-4fa0-bd3c-fe0714ff1843",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 11.74,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T13:18:28Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "65c3e493-94d7-41a1-8d9d-26e646a028e0",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 13.35,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T13:22:00Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "e31b0fa6-b389-4640-83d8-483a3e6d3b1a",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 8.25,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T16:37:52Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "0982ce58-b60f-41f8-b3ea-d0a00a461098",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 13.69,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-02T17:58:20Z",
+        "date_only": "2026-05-02"
+    },
+    {
+        "id": "e8d7c89a-31a5-4c11-97b6-45aa8afd3533",
+        "sensor_id": "SENS-DASS-03",
+        "recorded_pressure": 6.6,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-03T05:45:34Z",
+        "date_only": "2026-05-03"
+    },
+    {
+        "id": "eaa9b429-10f3-4306-8c5d-1466f80b5340",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 14.34,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-03T11:53:25Z",
+        "date_only": "2026-05-03"
+    },
+    {
+        "id": "6d8bdc51-f35e-469b-909f-62fccaff8b35",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 12.46,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-03T13:00:24Z",
+        "date_only": "2026-05-03"
+    },
+    {
+        "id": "2af6bc01-f10a-42f8-b0f4-050c8ebcc87e",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 14.93,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-03T14:19:03Z",
+        "date_only": "2026-05-03"
+    },
+    {
+        "id": "8a63436e-ff15-4da1-b5ad-ec15affa053a",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 13.75,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-03T14:30:45Z",
+        "date_only": "2026-05-03"
+    },
+    {
+        "id": "3fb91fe7-e452-4f68-a6f0-b97e1bacfa11",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 17.9,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-03T14:41:25Z",
+        "date_only": "2026-05-03"
+    },
+    {
+        "id": "cfd1e896-136d-4f33-8e2f-537dba1238d4",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 7.07,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-04T04:03:58Z",
+        "date_only": "2026-05-04"
+    },
+    {
+        "id": "8430a0aa-58d5-4ce0-b7c4-305b6caa5bd3",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 9.99,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-04T04:31:09Z",
+        "date_only": "2026-05-04"
+    },
+    {
+        "id": "eab6747c-2734-4e93-88e4-248ca20fbc87",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 6.6,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-04T08:14:25Z",
+        "date_only": "2026-05-04"
+    },
+    {
+        "id": "1ccf97b3-744f-488e-90da-a825a96c6dfd",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 14.69,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-04T13:30:12Z",
+        "date_only": "2026-05-04"
+    },
+    {
+        "id": "033ef8d4-abf0-4f15-914e-b7958aa7875d",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 9.97,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-05T13:10:06Z",
+        "date_only": "2026-05-05"
+    },
+    {
+        "id": "331f8550-a274-4a07-b8a5-720376f2fefd",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 8.79,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-05T20:18:21Z",
+        "date_only": "2026-05-05"
+    },
+    {
+        "id": "ad880fde-ba06-4638-8e39-78d0f97ec6dc",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 14.37,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-05T22:34:52Z",
+        "date_only": "2026-05-05"
+    },
+    {
+        "id": "ff6eff70-2a4e-4702-b20b-f4751be14172",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 7.57,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-06T07:46:15Z",
+        "date_only": "2026-05-06"
+    },
+    {
+        "id": "3be2d192-636f-4022-8f6c-b3e3e9a57b7f",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 11.95,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-06T09:07:21Z",
+        "date_only": "2026-05-06"
+    },
+    {
+        "id": "0dc83c60-90bb-41be-ad79-841800d601f1",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 5.81,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-06T10:46:30Z",
+        "date_only": "2026-05-06"
+    },
+    {
+        "id": "1d4c1370-422e-40a6-8391-08eec82ad089",
+        "sensor_id": "SENS-CENT-03",
+        "recorded_pressure": 7.65,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-06T17:28:12Z",
+        "date_only": "2026-05-06"
+    },
+    {
+        "id": "ca0234d0-a2cd-40d5-8b50-bc14a68b5877",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 12.77,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-06T19:22:01Z",
+        "date_only": "2026-05-06"
+    },
+    {
+        "id": "d2b769e0-ace1-4acd-96f1-595faba08ec5",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 6.59,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-06T20:40:13Z",
+        "date_only": "2026-05-06"
+    },
+    {
+        "id": "7ed58595-7672-4d94-a9be-3063528abebd",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 14.53,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-07T00:22:15Z",
+        "date_only": "2026-05-07"
+    },
+    {
+        "id": "81df2d32-166f-47a5-b64c-c4c51e9cb178",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 6.92,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-07T01:59:58Z",
+        "date_only": "2026-05-07"
+    },
+    {
+        "id": "1f709817-e4d5-4adf-8ffd-4830ede23784",
+        "sensor_id": "SENS-GRIM-02",
+        "recorded_pressure": 16.99,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-07T04:36:46Z",
+        "date_only": "2026-05-07"
+    },
+    {
+        "id": "61a79ef8-591c-4bec-a1e5-31cdac51768d",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 11.02,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-07T19:48:04Z",
+        "date_only": "2026-05-07"
+    },
+    {
+        "id": "ffb1f9ff-fdc3-4e94-9177-33afd3501d1f",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 8.69,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-07T20:58:50Z",
+        "date_only": "2026-05-07"
+    },
+    {
+        "id": "9e749d2c-dcd6-4997-b356-ccc4760de2d2",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 15.55,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-07T23:43:14Z",
+        "date_only": "2026-05-07"
+    },
+    {
+        "id": "6400f28a-b311-4c89-9f60-e06684f684eb",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 13.97,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-08T03:26:49Z",
+        "date_only": "2026-05-08"
+    },
+    {
+        "id": "0f3d8aff-0e40-42ed-aa9b-ca5b80e6a9ed",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 8.96,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-08T05:37:24Z",
+        "date_only": "2026-05-08"
+    },
+    {
+        "id": "a35bb5e6-6436-44bb-8d37-6472bedb4cfa",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 10.71,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-08T07:58:52Z",
+        "date_only": "2026-05-08"
+    },
+    {
+        "id": "df7c52b0-7f8a-4577-ab60-12b52a8f75b5",
+        "sensor_id": "SENS-BULT-03",
+        "recorded_pressure": 11.63,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-08T18:58:58Z",
+        "date_only": "2026-05-08"
+    },
+    {
+        "id": "d24195c3-ef03-4844-99a2-54544806b923",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 8.5,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-08T19:41:33Z",
+        "date_only": "2026-05-08"
+    },
+    {
+        "id": "a341f68d-bb10-43c7-bf8b-3710a2f42a59",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 8.94,
+        "final_social_reports": 5,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-09T09:40:06Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "fda1db07-ff38-4472-bfff-7da1a4708feb",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 6.25,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-09T12:54:16Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "3601963c-f92d-4ffb-b9dd-44a4c73a0c28",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 13.58,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-09T15:13:30Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "f10cd950-a76a-4578-ab14-12891699a344",
+        "sensor_id": "SENS-GRIM-03",
+        "recorded_pressure": 10.01,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-09T16:53:21Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "a0f0ca91-59a4-4d63-bc36-52ec3647d3c5",
+        "sensor_id": "SENS-DASS-02",
+        "recorded_pressure": 6.27,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-09T19:35:06Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "29355c4f-98df-4600-af99-f5c1d9c23a14",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 13.16,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-09T21:41:53Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "e56fa834-5541-4fa6-b3db-a0de8a59c476",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 19.8,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-09T21:45:28Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "ece1ae39-15ac-4118-9126-131ce87a93a3",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 10.4,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-09T22:30:09Z",
+        "date_only": "2026-05-09"
+    },
+    {
+        "id": "f294cd2d-dd4b-447a-8dfa-b04560c8e095",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 10.62,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-10T07:41:24Z",
+        "date_only": "2026-05-10"
+    },
+    {
+        "id": "120194b2-c14e-4139-8a7b-9dfbc380ab10",
+        "sensor_id": "SENS-BP-03",
+        "recorded_pressure": 19.39,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-10T14:01:21Z",
+        "date_only": "2026-05-10"
+    },
+    {
+        "id": "e7f6da40-56b0-4369-978c-b3a94eb0a083",
+        "sensor_id": "SENS-CENT-02",
+        "recorded_pressure": 12.45,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-10T14:21:15Z",
+        "date_only": "2026-05-10"
+    },
+    {
+        "id": "9ae026d2-f452-4fc9-a069-b6f76136a2db",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 6.91,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-10T18:45:03Z",
+        "date_only": "2026-05-10"
+    },
+    {
+        "id": "2ebe0ead-c4a3-4cd6-b866-a7555877db95",
+        "sensor_id": "SENS-BP-01",
+        "recorded_pressure": 5.48,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T00:28:07Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "7ed5690f-b34b-4408-99ec-1e16729af310",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 7.73,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T08:32:54Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "14995ad2-51c1-41dd-91f1-e3fdf7f6728d",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 12.1,
+        "final_social_reports": 2,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T09:24:49Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "f6511abd-d156-4d84-beff-4f3024de26e8",
+        "sensor_id": "SENS-GRIM-01",
+        "recorded_pressure": 9.57,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T09:43:22Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "ecd03214-e497-46b6-b9b0-530b53e88277",
+        "sensor_id": "SENS-BULT-02",
+        "recorded_pressure": 13.37,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T15:23:59Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "88db7002-6a46-428b-a001-8f8065ee83a0",
+        "sensor_id": "SENS-CENT-01",
+        "recorded_pressure": 11.5,
+        "final_social_reports": 3,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T15:59:23Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "127bb374-74f7-409a-8da6-2758080bf425",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 12.25,
+        "final_social_reports": 0,
+        "incident_type": "Possible Incident",
+        "outcome": "False alarm",
+        "timestamp": "2026-05-11T16:53:38Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "860e7fe2-7758-4942-9277-5da1e4019bf6",
+        "sensor_id": "SENS-BULT-01",
+        "recorded_pressure": 7.52,
+        "final_social_reports": 8,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T17:07:23Z",
+        "date_only": "2026-05-11"
+    },
+    {
+        "id": "17d59e32-2eab-4c29-bc63-61d2a0b316ef",
+        "sensor_id": "SENS-DASS-01",
+        "recorded_pressure": 11.4,
+        "final_social_reports": 1,
+        "incident_type": "Reported Incident",
+        "outcome": "Burst fixed",
+        "timestamp": "2026-05-11T23:53:40Z",
+        "date_only": "2026-05-11"
+    }
+]

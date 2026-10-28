@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets - never commit
+.env
+local.settings.json
+
+# Azure Functions local artefacts
+__azurite_db*__.json
+__blobstorage__/
+__queuestorage__/
+.python_packages/
+
+# Editors / OS
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
