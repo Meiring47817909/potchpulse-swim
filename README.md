@@ -79,15 +79,14 @@ Running it needs your own Azure resources. The original ones were on an Azure fo
    ```bash
    cd generator
    pip install -r requirements.txt
-   # set EVENTHUB_CONNECTION_STR, COSMOS_URI, COSMOS_KEY (see .env.example), e.g. in PowerShell:
-   #   $env:EVENTHUB_CONNECTION_STR = "Endpoint=sb://..."
+   cp .env.example .env        # then replace the placeholder values with your own
    python potch_generator.py
    ```
 
    On first run it creates the Cosmos DB database and containers.
 5. **Power BI:** open [`powerbi/PotchPulse-Dashboard.pbix`](powerbi/) and point the Cosmos DB connection at your account.
 
-Secrets are read from environment variables only. `.env` and `local.settings.json` are git-ignored.
+Secrets are read from environment variables or a local `.env` file only. Both `.env` and `local.settings.json` are git-ignored. The keys in the `.example` files are random placeholders in the right format, not real credentials.
 
 ## Documentation
 

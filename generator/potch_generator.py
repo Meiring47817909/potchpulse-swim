@@ -9,6 +9,12 @@ from datetime import datetime, timezone
 from azure.eventhub import EventHubProducerClient, EventData
 from azure.cosmos import CosmosClient, PartitionKey, exceptions
 
+try:
+    from dotenv import load_dotenv  # optional: load settings from generator/.env
+    load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env"))
+except ImportError:
+    pass
+
 # --- AZURE CONFIGURATION ---
 # Secrets come from environment variables (see .env.example); never hard-code keys.
 EH_CONNECTION_STR = os.environ["EVENTHUB_CONNECTION_STR"]  # Event Hubs namespace connection string (send policy)
